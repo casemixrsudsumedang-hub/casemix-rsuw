@@ -1,0 +1,23 @@
+{
+  "id": "/casemix-rsuw/",
+  "name": "Buku Casemix RSUD Umar Wirahadikusumah",
+  "short_name": "Casemix Search",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#0e7c6b",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1a0Y32PksEpO2xre4sivDtO_Fq58D7wtc",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/1a0Y32PksEpO2xre4sivDtO_Fq58D7wtc",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
