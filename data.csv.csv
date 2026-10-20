@@ -1,0 +1,1257 @@
+JUDUL,ISI,KATEGORI,TANGGAL
+Typoid,"DEFINISI
+Penyakit infeksi sistemik akut yang disebabkan oleh bakteri Salmonella typhi. Ditandai dengan demam lebih dari 7 hari, gangguan saluran cerna, dan gangguan kesadaran pada kasus berat.
+🔢 KODE DIAGNOSA (ICD-10)
+- A01.0 – Typhoid fever (Demam Tifoid).
+- A01.1 – Paratyphoid fever A.
+- A01.4 – Paratyphoid fever, unspecified.
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 90.59 – Blood examination (Pemeriksaan Widal/Tubex/Gall Culture).
+- 99.21 – Injection of antibiotic (Pemberian Ceftriaxone atau antibiotik lain).
+- 99.18 – Electrolyte infusion (Pemberian cairan infus).
+📑 SYARAT KLAIM & KODING
+1. Hasil Lab: Wajib melampirkan hasil pemeriksaan penunjang. Nilai Tubex ≥4 atau Widal titer 1/320 (atau kenaikan 4x lipat) sangat disarankan untuk mendukung klaim.
+2. Klinis: Catat gejala khas seperti ""Lidah kotor"" (typhoid tongue) atau gangguan pola BAB di resume medis.
+3. Masa Perawatan: Perhatikan lama rawat inap; jika sangat singkat dengan hasil lab meragukan, diagnosa sering diturunkan menjadi Demam Biasa (R50.9).
+💡 CATATAN STRATEGIS
+Hasil Tubex memiliki akurasi lebih tinggi dan lebih diakui dalam verifikasi klaim dibandingkan Widal. Jika hasil lab hanya menunjukkan nilai rendah, pastikan dokumentasi pemeriksaan fisik oleh dokter sangat kuat untuk mempertahankan kode A01.0.",,
+BRONKOPNEUMONIA,"DEFINISI
+Peradangan pada saluran napas (bronkus) dan kantung udara (alveoli) di sekitarnya. Merupakan jenis pneumonia lobularis yang sering menyerang anak-anak dan lansia.
+🔢 KODE DIAGNOSA (ICD-10)
+- J18.0 – Bronchopneumonia, unspecified (Kode umum BP).
+- J15.x – Bacterial pneumonia (Gunakan jika bakteri penyebabnya spesifik, misal J15.2 untuk Staphylococcal).
+- J18.9 – Pneumonia, unspecified (Jika hanya ditulis Pneumonia saja).
+- R06.0 – Dyspnoea (Sesak napas, sering menjadi diagnosa sekunder yang signifikan).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 87.44 – Routine chest x-ray (Rontgen Thorax - Wajib untuk diagnosa).
+- 93.94 – Respiratory medication administered by nebulizer (Nebulizer/Penguapan).
+- 96.07 – Insertion of nasogastric tube (Jika pasien sulit minum/makan).
+- 99.21 – Injection of antibiotic (Pemberian antibiotik injeksi).
+📑 SYARAT KLAIM & KODING
+1. Hasil Rontgen: Harus ada hasil rontgen thorax yang menunjukkan infiltrat atau bercak (patchy opacities) pada area bronkopulmonal.
+2. Pemeriksaan Fisik: Dokumentasikan adanya suara napas tambahan (Ronchi/Rales) dan tanda sesak (retraksi dinding dada atau pernapasan cuping hidung).
+3. Laboratorium: Lampirkan hasil Darah Lengkap (cek leukositosis) untuk mendukung adanya infeksi bakteri.
+💡 CATATAN STRATEGIS
+Verifikator sering menurunkan klaim menjadi ISPA jika tidak ada bukti rontgen yang jelas. Pastikan diagnosa J18.0 didukung oleh dokumentasi sesak napas dan hasil rontgen yang menyebutkan ""Bronchopneumonia"" atau ""Infiltrat"".",,
+�� PPOK (PENYAKIT PARU OBSTRUKTIF KRONIS),"📖 DEFINISI
+Penyakit peradangan paru kronis yang menyebabkan terhambatnya aliran udara dari paru-paru. Gejalanya meliputi kesulitan bernapas, batuk berdahak, dan mengi.
+🔢 KODE DIAGNOSA (ICD-10)
+• J44.1 : Chronic obstructive pulmonary disease with acute exacerbation (PPOK dengan serangan akut/perburukan gejala).
+• J44.0 : Chronic obstructive pulmonary disease with acute lower respiratory infection (PPOK disertai infeksi saluran napas bawah).
+• J44.9 : Chronic obstructive pulmonary disease, unspecified (PPOK stabil/tanpa komplikasi akut).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 93.94 : Respiratory medication administered by nebulizer (Pemberian uap/nebulisasi).
+• 94.65 : Smoking cessation rehabilitation (Jika dilakukan edukasi/rehabilitasi berhenti merokok).
+• 89.37 : Vital capacity determination (Pemeriksaan Spirometri).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Eksaserbasi Akut: Gunakan kode J44.1 jika pasien datang dengan sesak yang memberat secara tiba-tiba. Kode ini memiliki bobot klaim yang lebih tinggi dibandingkan J44.9 karena menunjukkan kegawatan medis.
+2. Pemeriksaan Penunjang: Wajib melampirkan hasil Rontgen Thorax (tampak hiperinflasi/diafragma datar) dan hasil pemeriksaan Spirometri jika tersedia (FEV1/FVC < 70%).
+3. Terapi Oksigen: Dokumentasikan penggunaan oksigen jangka panjang (Home Oxygen Therapy) jika pasien memerlukan, karena memengaruhi kompleksitas perawatan.
+💡 TIPS KODER
+Bedakan PPOK dengan Asma (J45). PPOK umumnya terjadi pada usia >40 tahun dengan riwayat merokok, sedangkan Asma sering dimulai sejak usia muda dan bersifat hilang-timbul. Jika pasien memiliki keduanya, gunakan kode J44.x (PPOK) karena cakupan diagnosanya lebih luas dalam sistem INA-CBG.",,
+DIABETES MILITUS,"📖 DEFINISI
+Penyakit metabolik yang ditandai dengan kadar gula darah tinggi (hiperglikemia) akibat gangguan produksi atau penggunaan insulin.
+🔢 KODE DIAGNOSA (ICD-10)
+- E11.9 – Type 2 DM without complications (DM tipe 2 tanpa komplikasi).
+- E11.5 – Type 2 DM with peripheral circulatory complications (Jika ada Gangren/Luka DM).
+- E11.2 – Type 2 DM with kidney complications (Jika disertai gangguan ginjal).
+- E11.3 – Type 2 DM with ophthalmic complications (Jika disertai Retinopati).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 90.59 – Blood examination (Cek Gula Darah/HbA1c).
+- 93.39 – Wound care (Jika dilakukan perawatan luka gangren).
+- 86.22 – Excisional debridement (Jika dilakukan tindakan pembersihan luka di OK).
+📑 SYARAT KLAIM & KODING
+1. Hasil Lab: Wajib melampirkan hasil Gula Darah (GDS/GDP/GD2PP) atau HbA1c.
+2. Spesifikasi: Hindari kode E11.9 jika ada komplikasi. Sebutkan komplikasinya (misal: Ginjal, Mata, atau Luka) karena nilai klaimnya jauh lebih tinggi.
+3. Terapi: Dokumentasikan penggunaan Insulin atau Obat Hipoglikemik Oral (OHO) di resume medis.
+💡 CATATAN STRATEGIS
+Jika pasien masuk karena luka kaki DM yang terinfeksi, gunakan E11.5 sebagai diagnosa utama agar prosedur debridement dapat diklaim secara optimal.",,
+PNEUMONIA,"📖 DEFINISI
+Infeksi yang menimbulkan peradangan pada kantong udara (alveoli) di salah satu atau kedua paru-paru, yang dapat berisi cairan atau nanah.
+🔢 KODE DIAGNOSA (ICD-10)
+- J18.9 – Pneumonia, unspecified (Jika tidak disebutkan jenisnya).
+- J15.9 – Bacterial pneumonia, unspecified (Pneumonia karena bakteri).
+- J69.0 – Pneumonitis due to food and vomit (Pneumonia Aspirasi - Sering pada pasien stroke/penurunan kesadaran).
+- J12.9 – Viral pneumonia, unspecified (Pneumonia karena virus).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 87.44 – Routine chest x-ray (Rontgen Thorax - Bukti utama).
+- 99.21 – Injection of antibiotic (Pemberian antibiotik).
+- 93.96 – Other oxygen enrichment (Pemberian Oksigen/Nasal Kanul).
+- 38.91 – Arterial blood sampling (Analisa Gas Darah/AGD untuk kasus berat).
+📑 SYARAT KLAIM & KODING
+1. Bukti Radiologi: Hasil Rontgen Thorax harus menunjukkan adanya konsolidasi atau infiltrat yang jelas.
+2. Klinis: Resume medis harus mencantumkan gejala objektif seperti batuk produktif, demam, dan suara napas ronkhi.
+3. Pneumonia Aspirasi: Jika koding J69.0 digunakan, harus ada kronologi yang jelas di resume medis mengenai kejadian tersedak atau penurunan kesadaran.
+💡 CATATAN STRATEGIS
+Pneumonia Aspirasi (J69.0) biasanya memiliki bobot biaya/tarif yang lebih tinggi karena tingkat kesulitan perawatan yang lebih besar. Pastikan diagnosa spesifik ini ditulis oleh dokter jika memang sesuai dengan kondisi pasien.",,
+CEREBRAL OEDEMA (EDEMA SEREBRI),"📖 DEFINISI
+Peningkatan volume jaringan otak akibat kelebihan akumulasi cairan, yang menyebabkan peningkatan tekanan di dalam rongga tengkorak (TIK).
+🔢 KODE DIAGNOSA (ICD-10)
+• G93.6 : Cerebral oedema (Kode utama untuk pembengkakan otak).
+• I61.x / I63.x : Stroke (Gunakan kode stroke sebagai diagnosa utama jika edema disebabkan oleh perdarahan atau penyumbatan).
+• S06.1 : Traumatic cerebral oedema (Gunakan jika disebabkan oleh cedera kepala/kecelakaan).
+⚠️ SYARAT KODING & CASEMIX (BPJS)
+1. Bukti Radiologi (Wajib): Harus tertera dalam ekspertise CT-Scan atau MRI Kepala (misal: ""sulci dan gyri menyempit"", ""midline shift"", atau ""ventrikel tertekan"").
+2. Gejala Klinis: Dokumentasikan tanda peningkatan TIK di rekam medis, seperti penurunan kesadaran (GCS turun), muntah proyektil, atau nyeri kepala hebat.
+3. Terapi Spesifik: Harus ada pemberian terapi antiedema dalam instruksi dokter, seperti Manitol (Infus) atau injeksi Deksametason dosis tinggi.
+💡 TIPS KODER
+Jangan gunakan G93.6 sebagai diagnosa utama jika penyebab dasarnya sudah diketahui (seperti Stroke atau Tumor Otak). Gunakan G93.6 sebagai diagnosa sekunder untuk meningkatkan bobot klaim (Comorbidity/Complication), karena edema serebri menggambarkan kondisi pasien yang lebih berat dan memerlukan pemantauan ketat.",,
+APPENDECTOMY:,"📖 DEFINISI
+Appendectomy adalah prosedur bedah untuk mengangkat apendiks (umbai cacing) yang mengalami peradangan atau infeksi (Appendisitis).
+🔢 KODE DIAGNOSA (ICD-10)
+- K35.8 – Acute appendicitis, other and unspecified (Appendisitis Akut tanpa peritonitis).
+- K35.3 – Acute appendicitis with localized peritonitis (Appendisitis dengan peritonitis lokal/pecah).
+- K37 – Unspecified appendicitis (Appendisitis kronis).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 47.09 – Other appendectomy (Operasi pengangkatan usus buntu terbuka).
+- 47.01 – Laparoscopic appendectomy (Jika menggunakan teknik sayatan minimal/Laparoskopi).
+- 47.19 – Incidental appendectomy (Jika apendiks diangkat bersamaan dengan operasi perut lainnya).
+📑 SYARAT KLAIM & KODING
+1. Laporan Operasi: Wajib menyebutkan temuan intra-operatif (misal: apendiks hiperemis, supuratif, atau sudah perforasi/gangren).
+2. Hasil PA (Patologi Anatomi): Hasil pemeriksaan jaringan apendiks setelah operasi sangat disarankan untuk melampirkan sebagai bukti sah diagnosa di mata verifikator.
+3. Pemeriksaan Fisik: Dokumentasikan tanda klinis seperti nyeri tekan titik McBurney, tanda Rebound (nyeri lepas), atau tanda psoas di resume medis.
+💡 CATATAN STRATEGIS
+Bedakan dengan teliti antara prosedur terbuka (47.09) dan Laparoskopi (47.01) karena tarif klaim INA-CBG untuk teknik Laparoskopi biasanya masuk dalam kelompok yang berbeda. Pastikan deskripsi tindakan di laporan operasi mendukung kode yang dipilih.",,
+ADHF (ACUTE DECOMPENSATED HEART FAILURE),"📖 DEFINISI
+Kondisi akut di mana terjadi perburukan gejala gagal jantung secara mendadak. Pasien biasanya datang dengan sesak napas hebat (dyspnea), ortopnea (sesak saat berbaring), dan sering disertai pembengkakan (edema) pada kaki atau perut.
+🔢 KODE DIAGNOSA (ICD-10)
+• I50.1 : Left ventricular failure (Paling sering untuk ADHF dengan edema paru).
+• I50.9 : Heart failure, unspecified (Jika gagal jantung tidak spesifik).
+• I50.0 : Congestive heart failure (Jika ada tanda gagal jantung kanan dan kiri).
+• J81 : Pulmonary oedema (Wajib ditambahkan jika ada edema paru akut).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 89.52 : Electrocardiogram (EKG).
+• 88.72 : Echocardiography (USG Jantung - Melihat fraksi ejeksi/EF).
+• 87.44 : Routine chest x-ray (Rontgen Thorax - Melihat kardiomegali & edema paru).
+• 93.96 : Other oxygen enrichment (Pemberian oksigen/CPAP/HFNC).
+• 99.29 : Injection of diuretics (Pemberian Furosemide dosis tinggi).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Edema Paru adalah Kunci: Jika ADHF disertai Edema Paru, pastikan kode J81 masuk sebagai diagnosa sekunder. Kombinasi I50 dan J81 hampir selalu menaikkan Severity Level ke tingkat yang lebih tinggi (Level 2 atau 3).
+2. Hasil Lab NT-proBNP: Hasil lab NT-proBNP yang tinggi sangat mendukung validitas diagnosa ADHF di mata verifikator. Pastikan terdokumentasi jika dilakukan pemeriksaan tersebut.
+3. Bedakan dengan ALO: ADHF adalah kondisi jantungnya, sedangkan ALO (Acute Lung Oedema) adalah kondisi parunya. Keduanya sering muncul bersamaan dan harus dikoding keduanya untuk menggambarkan kompleksitas kasus.
+💡 TIPS KODER
+Gunakan I50.1 sebagai diagnosa utama. Jika pasien juga memiliki Hipertensi, gunakan kode kombinasi I11.0 (Hypertensive heart disease with heart failure). Selalu periksa apakah ada faktor pencetus akut lainnya seperti Serangan Jantung (STEMI/NSTEMI), karena jika ada, maka diagnosa infark tersebut yang harus menjadi diagnosa utama.",,
+�� TUBERKULOSIS PARU (TB PARU / TBC),"📖 DEFINISI
+Penyakit infeksi saluran pernapasan menular yang disebabkan oleh bakteri Mycobacterium tuberculosis. Dapat menyerang parenkim paru maupun organ di luar paru (TB Ekstraparu).
+🔢 KODE DIAGNOSA (ICD-10)
+• A15.0 : Tuberculosis of lung, confirmed by sputum microscopy (TB Paru BTA+ / Konfirmasi Lab).
+• A16.0 : Tuberculosis of lung, bacteriologically and histologically negative (TB Paru BTA- / Klinis/Rontgen).
+• A16.2 : Tuberculosis of lung, without mention of bacteriological or histological confirmation.
+• A15.6 : Tuberculous pleurisy, confirmed bacteriologically (TB Pleura/Efusi TB).
+• Z11.1 : Special screening examination for respiratory tuberculosis (Skrining TB).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 91.31 : Microscopic examination of specimen from lower respiratory tract (Cek BTA Sputum).
+• 91.39 : Other microscopic examination (Tes Cepat Molekuler / TCM GeneXpert).
+• 87.44 : Routine chest x-ray (Rontgen Thorax).
+• 99.21 : Injection or infusion of antibiotics (Pemberian OAT atau Streptomisin).
+• 34.04 : Insertion of intercostal catheter for drainage (Jika ada Efusi Pleura/WSD).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Bukti Laboratorium: Kode A15.0 hanya boleh digunakan jika ada bukti hasil laboratorium (BTA positif atau TCM positif). Jika hasil lab negatif namun dokter tetap memberikan terapi OAT berdasarkan rontgen, gunakan kode A16.0.
+2. TB Paru Anak: Sering kali menggunakan sistem skor. Pastikan skor TB anak dilampirkan untuk memjustifikasi diagnosa A16 pada pasien anak.
+3. Resistensi Obat: Jika pasien adalah kasus TB-MDR (Multi-Drug Resistant), wajib menambahkan kode sekunder U84.3 (Resistance to multiple antibiotics) untuk menunjukkan kompleksitas kasus yang lebih tinggi.
+💡 TIPS KODER
+Bedakan dengan tegas antara A15 (Terkonfirmasi) dan A16 (Klinis). Untuk klaim yang kuat, pastikan hasil TCM atau BTA terlampir dalam berkas. Jika pasien mengalami batuk darah, tambahkan kode Hemoptisis (R04.2) sebagai diagnosa sekunder. Penggunaan kode A15.0 umumnya memiliki akurasi verifikasi yang lebih tinggi di mata verifikator dibandingkan diagnosa yang hanya berdasarkan klinis.",,
+EPILEPSI,"DEFINISI
+Epilepsi adalah gangguan sistem saraf pusat akibat aktivitas listrik otak yang tidak normal, yang menyebabkan kejang atau perilaku dan sensasi yang tidak biasa.
+🔢 KODE DIAGNOSA (ICD-10)
+- G40.9 – Epilepsy, unspecified (Kode umum).
+- G40.3 – Generalized idiopathic epilepsy (Petit mal / Grand mal).
+- G41.9 – Status epilepticus, unspecified (Kejang berkepanjangan >5-30 menit; High Value!).
+- R56.8 – Other and unspecified convulsions (Gunakan jika belum tegak diagnosa epilepsi).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 89.14 – Electroencephalogram (EEG / Rekam aktivitas otak).
+- 87.03 – CT Scan Head (Mencari penyebab struktural).
+- 99.25 – Injection of seizure control medication (Pemberian antikonvulsan injeksi).
+📑 SYARAT KLAIM & KODING
+1. Hasil Penunjang: Wajib melampirkan hasil EEG atau hasil CT-Scan/MRI jika ada.
+2. Kriteria Rawat Inap: Untuk kasus ""Status Epileptikus"" (G41), harus terdokumentasi durasi kejang dan penanganan kedaruratannya di resume medis.
+3. Terapi: Lampirkan bukti pemberian obat anti-epilepsi (OAE) dalam daftar obat harian.
+💡 CATATAN STRATEGIS
+Bedakan dengan jelas antara ""Kejang Demam"" (R56.0) dan ""Epilepsi"". Jika pasien masuk dalam kondisi kejang terus-menerus tanpa henti, gunakan kode Status Epileptikus (G41.x) karena masuk dalam kelompok severity level yang lebih tinggi dalam INA-CBG.",,
+�� HHD (HYPERTENSIVE HEART DISEASE),"📖 DEFINISI
+Penyakit jantung yang disebabkan oleh tekanan darah tinggi kronis yang memaksa jantung bekerja lebih keras, sehingga menyebabkan penebalan otot jantung (hipertrofi ventrikel kiri) dan akhirnya berujung pada gagal jantung.
+🔢 KODE DIAGNOSA (ICD-10)
+• I11.0 : Hypertensive heart disease with (congestive) heart failure (HHD dengan Gagal Jantung).
+• I11.9 : Hypertensive heart disease without (congestive) heart failure (HHD tanpa Gagal Jantung).
+• I50.9 : Heart failure, unspecified (Kode sekunder jika menggunakan I11.0).
+• I13.x : Hypertensive heart and renal disease (Jika pasien juga mengalami gagal ginjal/CKD).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 89.52 : Electrocardiogram (EKG - Mencari tanda LVH/Penebalan otot jantung).
+• 88.72 : Echocardiography (USG Jantung - Bukti mutlak HHD/Penurunan EF).
+• 87.44 : Routine chest x-ray (Rontgen - Mencari tanda Cardiomegaly/CTR >50%).
+• 99.29 : Injection or infusion of other therapeutic substance (Pemberian Diuretik/Obat Hipertensi).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Aturan Kombinasi: ICD-10 memiliki aturan ""causal relationship"" (hubungan sebab-akibat) otomatis antara Hipertensi dan Gagal Jantung. Jadi, jika pasien punya Hipertensi dan Gagal Jantung, kode yang digunakan adalah I11.0, bukan memisah kode I10 dan I50.
+2. Bukti Echo: Verifikator sering meminta hasil Echocardiography (88.72) untuk melihat apakah benar ada penebalan dinding jantung (LVH) atau gangguan fungsi pompa.
+3. Cardiomegaly: Jika di Rontgen tertulis ""Cardiomegaly"", pastikan diagnosa HHD ini diinput agar sesuai dengan bukti pemeriksaan penunjang.
+💡 TIPS KODER
+Gunakan kode I11.0 jika di resume medis tertulis ""HHD dengan CHF"" atau ""HHD dengan Edema Paru"". Kode ini memiliki bobot tarif yang lebih tinggi daripada I11.9. Jika pasien juga memiliki penyakit ginjal kronis (CKD), pastikan beralih ke kode I13 (Hypertensive heart and renal disease) karena grup tarifnya berbeda lagi dan mencakup kompleksitas yang lebih tinggi.",,
+�� CHOLELITHIASIS (BATU EMPEDU),"📖 DEFINISI
+Kondisi terdapatnya batu di dalam kantung empedu (kolelitiasis) yang terbentuk akibat pengendapan kolesterol atau bilirubin berlebih. Jika batu menyumbat saluran, pasien akan merasakan nyeri kolik abdomen kanan atas yang menjalar hingga ke punggung atau bahu.
+🔢 KODE DIAGNOSA (ICD-10) - PERHATIKAN KOMPLIKASINYA
+• K80.2 : Calculus of gallbladder without cholecystitis (Batu empedu TANPA disertai radang/kolesistitis - Kasus elektif/asimptomatik).
+• K80.0 : Calculus of gallbladder with acute cholecystitis (Batu empedu DISERTAI kolesistitis akut - Pasien biasanya datang dengan demam dan nyeri hebat).
+• K80.5 : Calculus of bile duct without cholangitis or cholecystitis (Batu pada saluran empedu/koledokolitiasis tanpa infeksi).
+• K80.3 : Calculus of bile duct with cholangitis (Batu saluran empedu DISERTAI infeksi/kolangitis - Kondisi emergency dengan ikterus/kuning).
+🔢 KODE PROSEDUR (ICD-9 CM) - TATA LAKSANA OPERATIF & DIAGNOSTIK
+• 51.22 : Cholecystectomy / Open Cholecystectomy (Pengangkatan kantung empedu melalui pembedahan terbuka/laparotomi).
+• 51.23 : Laparoscopic cholecystectomy (Pengangkatan kantung empedu secara minimal invasif menggunakan kamera/laparoskopi - KODE UTAMA PALING SERING).
+• 51.10 : Endoscopic retrograde cholangiopancreatography / ERCP (Tindakan endoskopi invasif untuk mendeteksi atau mengambil batu di saluran empedu).
+• 88.76 : Diagnostic ultrasound of abdomen / USG Abdomen (Pemeriksaan gold standard untuk visualisasi akustik batu empedu).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Diferensiasi Kolesistitis Akut (K80.0): Jangan asal memilih kode K80.2. Jika pasien masuk lewat IGD dengan tanda inflamasi akut (demam, leukositosis, Murphy sign positif) dan hasil USG menunjukkan penebalan dinding kandung empedu (gallbladder wall thickening), dorong koding ke K80.0. Kode K80.0 menempatkan kasus pada kelompok DRG dengan bobot biaya yang jauh lebih sesuai dengan intensitas perawatan di RS.
+2. Laparoskopi (51.23) vs Terbuka (51.22): Verifikator akan memvalidasi kesesuaian antara kode prosedur dengan laporan operasi dan pemakaian logistik kamar bedah. Pastikan koder tidak tertukar antara teknik laparoskopi dengan teknik konvensional (terbuka), karena grouping tarif INA-CBG keduanya berbeda.
+3. Konversi Operasi: Jika operasi dimulai dengan Laparoskopi namun di tengah tindakan dikonversi menjadi Laparotomi karena penyulit/perlengketan hebat, input kode 51.22 sebagai prosedur utama, dan tambahkan kode V64.41 (Laparoscopic procedure converted to open procedure) sebagai kode diagnosis sekunder.
+💡 TIPS KODER
+Pastikan hasil USG abdomen (88.76) yang menyatakan adanya batu (cholelithiasis/cholecystolithiasis) selalu terlampir. Jika pasien mengalami kondisi ikterik (badan kuning) akibat sumbatan batu, pastikan dokter menegakkan diagnosis komplikasi saluran empedu (kategori K80.3/K80.4/K80.5) untuk memperkuat alasan medis dilakukannya tindakan ERCP.",,
+DENGUE FEVER (DEMAM DENGUE KLASIK),"📖 DEFINISI
+Penyakit infeksi virus dengue yang ditandai dengan demam tinggi mendadak disertai nyeri sendi/otot, sakit kepala, dan terkadang muncul ruam atau bintik merah (petechiae).
+⚠️ PERBEDAAN PENTING: Pada Dengue Fever, TIDAK terjadi kebocoran plasma (Hematokrit tetap stabil dan tidak ada cairan di paru/perut).
+🔢 KODE DIAGNOSA (ICD-10)
+• A90 : Dengue fever classical dengue (KODE UTAMA).
+• R50.9 : Fever, unspecified (Jika hanya demam tanpa bukti lab dengue).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 90.59 : Blood examination (Cek Darah Lengkap, NS1, atau Serologi Dengue).
+• 99.18 : Injection or infusion of electrolytes (Pemberian cairan infus untuk rehidrasi).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Hasil Laboratorium: Penegakan diagnosa biasanya didukung hasil NS1 (+) atau Serologi IgG/IgM Dengue (+).
+2. Kestabilan Hematokrit: Nilai Hematokrit (Ht) pada A90 cenderung normal atau stabil (tidak naik ≥ 20%). Jika Ht naik drastis atau ditemukan efusi pleura/asites, diagnosa HARUS berubah menjadi A91 (DBD).
+3. Trombosit: Trombosit bisa turun (Trombositopenia), namun selama tidak ada bukti kebocoran plasma, kodenya tetap A90.
+💡 TIPS KODER
+Gunakan kode A90 untuk kasus observasi febris yang sudah terkonfirmasi dengue secara laboratoris namun secara klinis pasien masih stabil. Jika pasien menunjukkan tanda bahaya (warning signs) seperti nyeri perut hebat atau muntah terus-menerus, periksa kembali nilai Hematokritnya; jika ada kenaikan signifikan, segera arahkan ke kode A91 (DBD) untuk optimasi klaim sesuai kondisi klinis pasien.",,
+MASTITIS (INFEKSI PAYUDARA),"📖 DEFINISI
+Peradangan pada jaringan payudara yang mungkin disertai infeksi. Biasanya ditandai dengan payudara bengkak, nyeri, kemerahan, dan pasien mengalami demam.
+🔢 KODE DIAGNOSA (ICD-10)
+• O91.2 : Nonpurulent mastitis associated with childbirth (Mastitis tanpa abses terkait persalinan/nifas).
+• O91.1 : Abscess of breast associated with childbirth (Jika mastitis sudah menjadi abses/nanah terkait persalinan).
+• N61 : Inflammatory disorders of breast (Mastitis yang TIDAK terkait dengan persalinan/nifas).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Status Nifas: Pastikan koder memeriksa apakah pasien dalam masa nifas (42 hari setelah melahirkan). Jika ya, gunakan kode O91. Jika tidak, gunakan kode N61.
+2. Prosedur: Jika dilakukan tindakan penyedotan nanah atau penyayatan, tambahkan kode prosedur 85.0 (Incision of breast/Incision and drainage of mastitis).
+3. Data Dukung: Lampirkan laporan tindakan (jika ada insisi) dan catatan pemberian antibiotik di resume medis.
+💡 TIPS KODER
+Hati-hati dalam pemilihan kode utama. Jika pasien datang dengan mastitis saat masih dalam perawatan post-op SC (Sectio Caesarea), mastitis bisa menjadi diagnosa sekunder yang menambah kompleksitas klaim.",,
+�� CARDIOMEGALY (PEMBESARAN JANTUNG),"📖 DEFINISI
+Kondisi di mana jantung mengalami pembesaran ukuran yang terlihat pada pemeriksaan pencitraan, sering kali disebabkan oleh tekanan darah tinggi kronis atau penyakit katup jantung.
+🔢 KODE DIAGNOSA (ICD-10)
+• I51.7 : Cardiomegaly (Gunakan jika hanya ditemukan pembesaran tanpa tanda gagal jantung akut).
+• I11.9 : Hypertensive heart disease without (congestive) heart failure (Jika disebabkan oleh hipertensi kronis).
+• I50.x : Heart Failure (Jika pembesaran jantung disertai sesak napas/oedema paru, gunakan kode Gagal Jantung sebagai diagnosa utama).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Bukti Radiologi (Wajib): Harus didukung hasil Rontgen Thorax dengan keterangan ""Cardiomegaly"" atau nilai CTR (Cor Thoracic Ratio) >50%.
+2. Diagnosa Sekunder: Cardiomegaly sering kali menjadi diagnosa sekunder (komorbiditas) yang meningkatkan bobot klaim pada kasus Stroke atau Penyakit Ginjal Kronis (CKD).
+3. Data Dukung: Hasil pemeriksaan EKG (terdapat LVH/RVH) atau Echocardiography sangat memperkuat validasi kode ini saat audit.
+💡 TIPS KODER
+Jika dalam resume medis tertulis ""HHD"" (Hypertensive Heart Disease), maka kode I11.9 sudah mencakup kondisi Cardiomegaly tersebut. Jangan menginput I51.7 secara bersamaan dengan I11.x karena dianggap redundan (duplikasi) oleh sistem INA-CBG.
+",,
+SYOK HIPOVOLEMIK,"📖 DEFINISI
+Kondisi gawat darurat akibat hilangnya darah atau cairan tubuh dalam jumlah besar (>20%), sehingga jantung tidak mampu memompa cukup darah ke tubuh.
+🔢 KODE DIAGNOSA (ICD-10)
+• R57.1 : Hypovolaemic shock.
+⚠️ CATATAN STRATEGIS
+1. Penyebab: Jika syok disebabkan oleh perdarahan hebat akibat trauma, pastikan diagnosa utama adalah lokasi traumanya, dan R57.1 sebagai diagnosa sekunder yang signifikan.
+2. Data Dukung: Verifikator akan melihat tanda vital (tekanan darah rendah, nadi cepat) dan catatan pemberian cairan resitasi masif di lembar IGD/ICU.
+💡 TIPS KODER
+Jika syok terjadi saat atau setelah tindakan bedah, perhatikan apakah lebih tepat menggunakan kode komplikasi pasca prosedur.",,
+LBP (LOW BACK PAIN / NYERI PUNGGUNG BAWAH),"📖 DEFINISI
+Rasa nyeri, tegang, atau kaku otot yang dirasakan di area punggung bawah (L1 hingga L5). Keluhan ini bisa bersifat akut maupun kronis, dengan atau tanpa penjalaran ke kaki (sciatica).
+🔢 KODE DIAGNOSA (ICD-10)
+• M54.5 : Low back pain (Kode umum untuk nyeri punggung bawah).
+• M51.2 : Other specified intervertebral disc displacement (HNP - Jika ada pergeseran bantalan sendi).
+• M54.4 : Lumbago with sciatica (LBP disertai nyeri menjalar ke kaki).
+• M47.81 : Spondylosis without myelopathy or radiculopathy, lumbar region (Pengeroposan tulang belakang).
+• O99.8 : Other specified diseases and conditions complicating pregnancy (Gunakan kode ini sebagai primer jika pasien hamil).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 87.24 : Other x-ray of lumbosacral spine (Rontgen tulang belakang lumbosacral).
+• 88.91 : Magnetic resonance imaging of spinal canal (MRI - Untuk melihat saraf terjepit/HNP).
+• 93.10 : Physical therapy exercise (Fisioterapi).
+• 99.23 : Injection of steroid (Injeksi anti-nyeri jika diperlukan).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Diagnosis Spesifik: Verifikator sering melakukan ""pending"" pada kode M54.5 karena dianggap terlalu umum. Jika hasil Rontgen atau MRI menunjukkan adanya HNP (M51) atau Spondylosis (M47), gunakan kode tersebut sebagai diagnosa utama agar klaim lebih kuat dan spesifik.
+2. Kaitan dengan Pekerjaan: Jika LBP disebabkan oleh cedera saat bekerja, pastikan kronologi terdokumentasi untuk keperluan klaim BPJS Ketenagakerjaan (jika relevan).
+3. Penyerta: Input diagnosa sekunder seperti G62.9 (Polyneuropathy) jika pasien merasakan kesemutan kronis untuk meningkatkan Severity Level.
+💡 TIPS KODER
+Gunakan M54.5 sebagai diagnosa utama untuk kunjungan awal. Jika sudah ada hasil penunjang (MRI), segera ganti ke kode yang lebih spesifik seperti M51.x. Jangan lupa menginput kode prosedur Fisioterapi (93.10) setiap kali pasien melakukan terapi rutin agar volume pelayanan tercatat dengan baik.",,
+�� HIPERTENSI URGENSI (HYPERTENSIVE URGENCY),"📖 DEFINISI
+Peningkatan tekanan darah yang ekstrem (Sistolik >180 mmHg atau Diastolik >120 mmHg) secara mendadak tanpa disertai bukti kerusakan organ akut (seperti nyeri dada, sesak napas hebat, atau penurunan kesadaran).
+🔢 KODE DIAGNOSA (ICD-10)
+• I10 : Essential (primary) hypertension (Kode standar untuk hipertensi primer).
+• R03.0 : Elevated blood-pressure reading, without diagnosis of hypertension (Jika baru sekali ditemukan tensi tinggi tanpa riwayat hipertensi sebelumnya).
+• I15.x : Secondary hypertension (Jika tensi tinggi disebabkan oleh penyakit lain seperti gangguan ginjal).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.29 : Injection or infusion of other therapeutic or prophylactic substance (Pemberian obat penurun tensi melalui infus atau injeksi).
+• 89.52 : Electrocardiogram EKG (Wajib dilakukan untuk memastikan tidak ada gangguan jantung/Emergensi).
+• 90.59 : Microscopic examination of blood (Pemeriksaan lab darah untuk cek fungsi ginjal/ureum kreatinin).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Urgency vs Emergency: Jika ada kerusakan organ (misal sesak napas/ALO atau nyeri dada), kodenya berubah menjadi Hipertensi Emergensi. Pastikan dokter menuliskan ""Urgensi"" dengan jelas jika memang tidak ada komplikasi organ.
+2. Rawat Inap: Verifikator sering mempertanyakan rawat inap pada kasus Urgensi karena secara teori bisa ditangani di IGD dengan obat oral. Pastikan ada alasan medis kuat di resume medis (misal: tensi tidak turun dengan obat oral atau ada gejala penyerta yang mengkhawatirkan).
+3. Penyerta: Jika ada gejala seperti pusing hebat, gunakan kode R51 (Headache) sebagai diagnosa sekunder agar gambaran klinis lebih lengkap.
+💡 TIPS KODER
+Gunakan I10 sebagai diagnosa utama. Jika tensi tinggi ini menyebabkan pasien merasa sangat lemas, Bapak bisa menambahkan kode R53 (Malaise and fatigue) untuk memperkuat alasan perawatan inap.",,
+�� INGUINAL HERNIA (HERNIA LIPAT PAHA),"📖 DEFINISI
+Kondisi di mana jaringan lunak (biasanya usus) menonjol melalui titik yang lemah atau robek pada dinding perut di lipat paha.
+🔢 KODE DIAGNOSA (ICD-10)
+• K40.9 : Unilateral inguinal hernia, tanpa obstruksi atau gangren (Satu sisi, bisa keluar masuk).
+• K40.2 : Bilateral inguinal hernia, tanpa obstruksi atau gangren (Dua sisi/Kanan-Kiri).
+• K40.3 : Unilateral inguinal hernia, DENGAN OBSTRUKSI (Terjepit/Inkarserata, nyeri hebat).
+• K40.4 : Unilateral inguinal hernia, DENGAN GANGREN (Sudah ada jaringan mati, kondisi darurat).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 53.0x : Unilateral repair of inguinal hernia.
+• 53.1x : Bilateral repair of inguinal hernia.
+• 53.02 : Repair of inguinal hernia with graft or prosthesis (JIKA menggunakan MESH).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Obstruksi adalah ""Key"": Jika di resume medis tertulis ""Hernia Inkarserata"" atau ""Strangulata"", wajib gunakan kode K40.3. Ini menaikkan tarif karena dianggap kasus penyulit/emergency.
+2. Detail Prosedur: Pastikan koder melihat laporan operasi. Jika dokter mengerjakan sisi kanan dan kiri sekaligus, gunakan kode Bilateral (53.1x). Menginput dua kode unilateral secara terpisah sering kali dianggap tidak efisien oleh sistem.
+3. Penggunaan Mesh: Jangan lupa kode 53.02 jika ada pemasangan jaring (Mesh), karena mencerminkan penggunaan implan yang memengaruhi biaya alat kesehatan.
+💡 TIPS KODER
+Gunakan K40.x sebagai diagnosa utama. Jika hernia terjadi pada bayi laki-laki, periksa apakah ada diagnosa penyerta Undescended Testis (Q53), karena sering muncul bersamaan. Selalu pastikan lokasi (Kanan/Kiri) terdokumentasi dengan jelas di rekam medis untuk menghindari audit kecocokan sisi antara diagnosa dan tindakan",,
+�� SKIN FLAP (BEDAH FLAP KULIT),"📖 DEFINISI
+Prosedur bedah rekonstruksi dengan memindahkan sebagian jaringan kulit beserta pembuluh darahnya dari satu bagian tubuh ke bagian tubuh lain untuk menutup luka yang dalam, luas, atau melibatkan struktur penting (tulang/tendon).
+🔢 KODE DIAGNOSA (ICD-10) - CARI INDIKASI TINDAKAN
+• L89.x : Decubitus ulcer and pressure area (Ulkus dekubitus - indikasi rekonstruksi flap paling sering pada pasien tirah baring lama).
+• T14.1 : Open wound of unspecified body region (Luka terbuka luas akibat trauma/kecelakaan).
+• L98.4 : Chronic ulcer of skin, not elsewhere classified (Ulkus kronis/luka gangren yang tidak kunjung sembuh).
+• M86.9 : Osteomyelitis, unspecified (Infeksi tulang yang memerlukan penutupan jaringan lunak di atasnya).
+🔢 KODE PROSEDUR (ICD-9 CM) - PERHATIKAN TAHAPAN & LOKASI
+• 86.70 : Operations on pedicle hoặc flap graft, unspecified (Kode umum rekonstruksi flap).
+• 86.71 : Cutting and preparation of pedicle graft or flap (Tahap pemotongan dan penyiapan jaringan flap dari donor).
+• 86.72 : Advancement of pedicle graft (Pergeseran atau pemindahan lokal flap kulit).
+• 86.74 : Attachment of pedicle or flap graft to other sites (Pemasangan/penjahitan flap ke area luka di lokasi lain).
+• 86.22 : Excisional debridement (Sering dilakukan bersamaan untuk membersihkan jaringan mati sebelum flap dipasang).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Multi-Step Coding: Prosedur skin flap sering kali dilakukan dalam beberapa tahapan operasi (multi-stage). Pastikan koder menginput kode sesuai dengan tahapan yang dikerjakan pada hari itu, apakah baru penyiapan donor (86.71), pemindahan lokal (86.72), atau penempelan ke lokasi lain (86.74).
+2. Kombinasi Debridemen: Jangan lupa menginput kode debridemen eksisional (86.22) jika dokter bedah melakukan pembersihan luka yang dalam sebelum flap ditempelkan. Dua kode ini (tindakan + debridemen) sah diinput bersamaan jika terdokumentasi dengan baik di laporan operasi.
+3. Dokumentasi Desain Flap: Verifikator akan memeriksa laporan operasi untuk memastikan bahwa tindakan tersebut adalah flap (membawa pembuluh darah), bukan sekadar penutupan luka biasa (suturing) atau skin graft. Pastikan kata ""Flap"", jenis flap (misal: Limberg flap, Rotational flap), dan ukuran jaringan terdokumentasi dengan jelas.
+💡 TIPS KODER
+Gunakan kode dari kategori 86.7x berdasarkan deskripsi tindakan di laporan operasi. Jika rekonstruksi flap dilakukan pada area wajah atau tangan, perhatikan keterlibatan spesialis bedah plastik atau ortopedi karena estimasi pemakaian alat medis dan kompleksitasnya memengaruhi profil biaya riil di RSUD Tapanuli Selatan.",,
+CEPHALGIA (NYERI KEPALA),"📖 DEFINISI
+Rasa sakit atau tidak nyaman di area kepala, wajah, atau leher bagian atas yang dapat disebabkan oleh ketegangan otot, gangguan pembuluh darah, atau kondisi medis lainnya.
+🔢 KODE DIAGNOSA (ICD-10)
+• R51 : Headache (Kode standar untuk nyeri kepala yang penyebabnya belum spesifik).
+• G43.9 : Migraine, unspecified (Nyeri kepala berdenyut, biasanya satu sisi).
+• G44.2 : Tension-type headache (Nyeri kepala seperti diikat/tegang).
+• G44.0 : Cluster headache syndrome (Nyeri kepala hebat di sekitar mata).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Aturan Gejala: Jika nyeri kepala disebabkan oleh penyakit yang sudah tegak diagnosanya (misal: Stroke/I63, Hipertensi/I10, atau Tumor Otak/D33), maka kode R51 TIDAK BOLEH digunakan sebagai diagnosa utama. R51 dianggap sebagai gejala dari penyakit tersebut.
+2. Pemeriksaan Fisik: Dokumentasikan lokasi nyeri (Frontal, Occipital, atau Temporal) dan skala nyeri (skala 1-10) dalam asuhan keperawatan.
+3. Data Dukung: Jika disertai muntah proyektil atau kaku kuduk, pertimbangkan pemeriksaan CT-Scan Kepala untuk menyingkirkan adanya SOL (Space Occupying Lesion) atau perdarahan.
+💡 TIPS KODER
+Gunakan kode G44.2 (Tension Headache) jika nyeri kepala disebabkan oleh stres atau kelelahan otot leher. Kode dari blok G (Sistem Saraf) umumnya memiliki bobot yang lebih stabil dalam pengelompokan INA-CBG dibandingkan kode gejala dari blok R.",,
+�� JAUNDICE (IKTERUS / PENYAKIT KUNING),"📖 DEFINISI
+Kondisi klinis yang ditandai dengan pewarnaan kuning pada kulit, selaput lendir, dan sklera mata akibat kadar bilirubin yang tinggi dalam darah (Hiperbilirubinemia).
+🔢 KODE DIAGNOSA (ICD-10)
+• P59.9 : Neonatal jaundice, unspecified (KUNING PADA BAYI BARU LAHIR).
+• P58.x : Neonatal jaundice due to other excessive haemolysis (Jika karena golongan darah ABO/Rhesus tidak cocok).
+• R17 : Unspecified jaundice (KUNING PADA DEWASA/ANAK - Bukan periode neonatal).
+• K80.x : Cholelithiasis with jaundice (Jika kuning karena batu empedu).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.01 : Phototherapy (Terapi sinar pada bayi kuning).
+• 99.01 : Exchange transfusion (Transfusi tukar pada kasus berat).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Bedakan Usia: Jangan tertukar menggunakan kode R17 untuk bayi baru lahir, atau kode P59 untuk pasien dewasa. Verifikator akan langsung menolak klaim jika kode tidak sesuai rentang usia.
+2. Kadar Bilirubin: Wajib melampirkan hasil Lab Bilirubin (Total, Direk, Indirek). Untuk bayi, biasanya terapi sinar dilakukan jika kadar bilirubin >12 mg/dL (tergantung berat badan & usia jam bayi).
+3. Penyebab Utama: Jika kuning disebabkan oleh Hepatitis (B15-B19) atau Sirosis Hati (K74), gunakan kode penyakit hatinya sebagai diagnosa utama.
+💡 TIPS KODER
+Gunakan kode P59.0 (Jaundice associated with preterm delivery) jika bayi kuning tersebut lahir prematur. Kode ini memiliki bobot klaim yang lebih baik karena menggambarkan penyulit pada bayi dengan organ hati yang belum matang.",,
+VIRAL INFECTION (INFEKSI VIRUS),"📖 DEFINISI
+Kondisi medis akibat invasi virus ke dalam tubuh. Gejala umum meliputi demam, lemas (malaise), nyeri sendi (arthralgia), dan penurunan kadar leukosit (leukopenia).
+🔢 KODE DIAGNOSA (ICD-10)
+• B34.9 : Viral infection, unspecified (KODE UTAMA - Jika lokasi tidak spesifik).
+• A08.4 : Viral intestinal infection (Diare karena virus/Rotavirus).
+• B30.9 : Viral conjunctivitis (Sakit mata merah karena virus).
+• J06.9 : Acute upper respiratory infection (ISPA/Common Cold - Sering disebabkan virus).
+• A90 / A91 : Dengue Fever / DHF (Infeksi virus spesifik yang sering dirawat).
+• B00.x : Herpes simplex infections.
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 90.59 : Blood examination (Cek Darah Lengkap/DL - Mencari leukopenia/limfositosis).
+• 99.21 : Injection of antibiotics (Sering diberikan untuk mencegah infeksi sekunder bakteri).
+• 99.29 : Injection of other therapeutic substance (Pemberian antivirus/vitamin).
+• 89.52 : Electrocardiogram (Jika virus dicurigai menyerang otot jantung/Miokarditis).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Bukti Laboratorium: Wajib melampirkan hasil Darah Lengkap. Tanda khas infeksi virus biasanya adalah jumlah sel darah putih (Leukosit) yang normal atau rendah, dengan peningkatan persentase Limfosit.
+2. Hindari Unspecified: Verifikator sering mempertanyakan diagnosa B34.9 (Viral Infection NOS) untuk rawat inap jika tidak ada gejala organ spesifik. Gunakan kode yang lebih presisi seperti J03.0 (Tonsilitis) atau K52.9 (Gastroenteritis) jika gejalanya jelas.
+3. Komplikasi: Jika infeksi virus menyebabkan dehidrasi atau demam tinggi yang tidak turun (febris), pastikan kode R50.9 (Fever) atau E86 (Dehidrasi) dicatat sebagai diagnosa sekunder.
+💡 TIPS KODER
+Gunakan kode B34.9 hanya sebagai pilihan terakhir jika dokter tidak menuliskan lokasi infeksinya. Untuk klaim BPJS, diagnosa ""Viral Infection"" tanpa penyulit sering kali dianggap kasus non-spesialistik (Faskes Tingkat 1). Agar layak rawat inap di RS, pastikan ada indikasi medis yang kuat seperti intoleransi oral (muntah terus), dehidrasi sedang-berat, atau kecurigaan ke arah Dengue (DHF).",,
+VOMITUS (MUNTAH),"📖 DEFINISI
+Keluarnya isi lambung secara ekspulsif. Jika terjadi secara terus-menerus, dapat menyebabkan gangguan elektrolit, dehidrasi, dan ketidakseimbangan asam-basa (Alkalosis).
+🔢 KODE DIAGNOSA (ICD-10)
+• R11 : Nausea and vomiting (Muntah tanpa penyulit/gejala umum).
+• G43.A : Cyclical vomiting (Muntah berulang secara periodik).
+• O21.0 : Mild hyperemesis gravidarum (Muntah pada ibu hamil - Ringan).
+• O21.1 : Hyperemesis gravidarum with metabolic disturbance (Muntah hamil - Berat/Dehidrasi).
+• P92.0 : Vomiting in newborn (Muntah pada bayi baru lahir).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 96.07 : Insertion of nasogastric tube (Pasang NGT untuk dekompresi).
+• 96.33 : Gastric gavage (Pemberian nutrisi via selang).
+• 99.18 : Injection or infusion of electrolytes (Koreksi cairan/infus).
+• 90.59 : Blood examination (Cek elektrolit akibat muntah berlebih).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Gejala vs Diagnosa Utama: Jika penyebab muntah sudah diketahui (misal: Gastritis atau Gastroenteritis), maka gunakan diagnosa penyebabnya sebagai Diagnosa Utama. Kode R11 hanya digunakan jika penyebabnya tidak ditemukan selama perawatan.
+2. Kaitan dengan Dehidrasi: Muntah hebat yang menyebabkan dehidrasi adalah ""kombinasi maut"" untuk tarif. Pastikan menginput E86 (Volume Depletion/Dehidrasi) sebagai diagnosa sekunder untuk meningkatkan level keparahan.
+3. Muntah pada Ibu Hamil: Hati-hati memilih antara O21.0 dan O21.1. Jika ada gangguan elektrolit (Hypokalemia) di hasil lab, wajib gunakan O21.1 karena nilai klaimnya jauh lebih tinggi.
+💡 TIPS KODER
+Gunakan R11 hanya sebagai kode gejala. Jika pasien muntah darah, jangan gunakan R11, tapi gunakan Hematemesis (K92.0). Jika muntah terjadi paska operasi, gunakan kode komplikasi T81.8 atau K91.8. Pastikan balance cairan tercatat di rekam medis untuk mendukung klaim pemberian cairan infus dalam jumlah besar.",,
+TINDAKAN OSTEOMYELITIS (INFEKSI TULANG),"📖 DEFINISI
+Prosedur pembedahan untuk mengatasi infeksi pada tulang. Meliputi pembersihan jaringan terinfeksi (debridement), pembuangan fragmen tulang mati (sequestrectomy), atau pengambilan sampel untuk kultur kuman.
+🔢 KODE DIAGNOSA (ICD-10)
+• M86.1 : Other acute osteomyelitis (Osteomyelitis akut).
+• M86.6 : Other chronic osteomyelitis (Osteomyelitis kronis - Paling sering).
+• M86.9 : Osteomyelitis, unspecified.
+• B95 / B96 : Kode Bakteri (Wajib diinput jika ada hasil kultur kuman).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 77.6x : Local excision of lesion or tissue of bone (Sequestrectomy / Pembuangan tulang mati).
+• 77.1x : Incision of bone without division (Drainase abses tulang).
+• 86.22 : Excisional debridement of wound, infection, or burn (Jika hanya debridement jaringan lunak di atas tulang).
+• 99.21 : Injection or infusion of antibiotics (Terapi antibiotik jangka panjang).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Pilih Digit Terakhir (x): Kode 77.xx memerlukan digit ke-5 untuk menentukan lokasi tulang. Contoh:
+- 77.67 (Tibia/Fibula/Kaki bawah).
+- 77.68 (Tarsal/Metatarsal/Kaki).
+- 77.63 (Radius/Ulna/Lengan bawah).
+2. Sequestrectomy vs Debridement: Jika dokter melakukan pengerokan tulang, gunakan 77.6x. Kode ini memiliki bobot tarif yang jauh lebih tinggi daripada debridement kulit biasa (86.22). Pastikan laporan operasi menyebutkan ""tulang dikerok"" atau ""sequestrum diambil"".
+3. Chronic vs Acute: Osteomyelitis kronis (M86.6) sering kali dianggap memiliki tingkat kesulitan lebih tinggi dan memerlukan durasi perawatan yang lebih lama di RS.
+💡 TIPS KODER
+Gunakan M86.6 sebagai diagnosa utama jika pasien masuk untuk pembersihan tulang menahun. Pastikan hasil pemeriksaan Rontgen atau MRI yang menunjukkan adanya destruksi tulang/sequestrum dilampirkan. Jika tindakan dilakukan pada pasien Diabetes, jangan lupa tambahkan kode E11.5 (DM with peripheral circulatory complications) sebagai diagnosa sekunder.",,
+AKI,"DEFINISI
+Acute Kidney Injury (AKI) adalah penurunan fungsi ginjal secara mendadak yang ditandai dengan peningkatan kadar Kreatinin atau penurunan volume urine.
+🔢 KODE DIAGNOSA (ICD-10)
+- N17.9 (Acute kidney failure, unspecified) - Paling umum.
+- N17.0 (Acute kidney failure with tubular necrosis).
+- R39.2 (Extrarenal uraemia) - Jika kondisi belum tegak AKI.
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 39.95 (Hemodialisa/HD Akut) - Jika dilakukan cuci darah.
+- 54.98 (Peritoneal dialysis).
+- 88.75 (USG Ginjal).
+📑 SYARAT KLAIM & KODING (INA-CBG)
+1. Hasil Lab: Peningkatan kreatinin serum ≥ 0.3 mg/dL dalam 48 jam atau ≥ 1.5x nilai baseline.
+2. Resume Medis: Harus tertulis ""AKI"" atau ""Gagal Ginjal Akut"", bukan hanya ""Ureum Kreatinin meningkat"".
+3. Jika disebabkan Sepsis, gunakan kode Sepsis (A41.9) sebagai diagnosa utama dan N17.9 sebagai diagnosa sekunder.
+💡 CATATAN STRATEGIS
+Diagnosis AKI sangat penting karena sering menjadi ""Complication & Comorbidity"" (CC) yang menaikkan level severity dan biaya klaim rumah sakit.",,
+BBLR,"📖 DEFINISI
+Bayi Baru Lahir Rendah (BBLR) adalah bayi dengan berat badan lahir kurang dari 2.500 gram tanpa memandang masa gestasi.
+🔢 KODE DIAGNOSA (ICD-10)
+- P07.1 – Other low birth weight (Berat 1000 – 2499 gram).
+- P07.0 – Extremely low birth weight (Berat <1000 gram).
+- P05.x – Slow fetal growth and fetal malnutrition (Jika bayi kecil untuk masa kehamilan/KMK).
+- P59.9 – Neonatal jaundice (Sering menjadi diagnosa sekunder karena bayi BBLR rentan kuning).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 93.35 – Other health training and instruction (Edukasi Metode Kanguru/KMC).
+- 99.18 – Injection or infusion of electrolytes (Pemberian nutrisi parenteral).
+- 99.15 – Incubation (Perawatan dalam inkubator).
+- 96.7x – Continuous mechanical ventilation (Jika menggunakan ventilator/CPAP).
+📑 SYARAT KLAIM & KODING
+1. Berat Badan (Gram): Wajib mencantumkan berat badan lahir yang akurat dalam satuan gram di resume medis dan lembar identitas bayi.
+2. Usia Gestasi: Cantumkan usia kehamilan (minggu) untuk menentukan apakah bayi tersebut Prematur atau KMK.
+3. Dokumentasi NICU: Jika bayi dirawat di NICU, lampirkan lembar observasi intensif dan penggunaan alat bantu napas jika ada.
+💡 CATATAN STRATEGIS
+Selisih 1 gram saja bisa mengubah group INA-CBG jika melewati ambang batas (misal: antara 999 gram dan 1000 gram). Pastikan koding P07.0 atau P07.1 dipilih dengan sangat teliti sesuai catatan timbangan saat lahir.",,
+"FEVER, UNSPECIFIED (DEMAM TDK SPESIFIK)","📖 DEFINISI
+Peningkatan suhu tubuh di atas rentang normal (biasanya >38°C) di mana penyebab infeksinya belum teridentifikasi secara pasti saat pasien masuk atau diperiksa.
+🔢 KODE DIAGNOSA (ICD-10)
+• R50.9 : Fever, unspecified (Kode standar untuk demam tanpa diagnosa lain).
+• R50.8 : Other specified fever (Jika demam disertai gejala spesifik lain namun belum tegak diagnosanya).
+• A92.9 : Arboviral fever, unspecified (Jika dicurigai karena virus namun hasil lab belum keluar).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Aturan ""Excludes"": Jika sudah ada diagnosa infeksi yang tegak (misal: Typhoid, DHF, atau Pneumonia), maka kode R50.9 TIDAK BOLEH digunakan sebagai diagnosa utama. Demam sudah dianggap sebagai gejala dari penyakit tersebut.
+2. Observasi: Kode ini sering digunakan untuk kasus ""Observasi Febris"". Pastikan dalam 3 hari perawatan ada upaya penegakan diagnosa (cek darah rutin, widal, atau NS1).
+3. Data Dukung: Grafik suhu (kurva demam) pada lembar observasi perawat harus menunjukkan kenaikan suhu yang nyata sebagai bukti klinis.
+💡 TIPS KODER
+Gunakan kode R50.9 hanya sebagai diagnosa sementara. Jika hasil laboratorium menunjukkan adanya infeksi bakteri namun lokasinya tidak diketahui, pertimbangkan kode A49.9 (Bacterial infection, unspecified). Hal ini dapat memengaruhi bobot klaim dan akurasi data epidemiologi rumah sakit.",,
+�� PENYAKIT JANTUNG BAWAAN (PJB),"📖 DEFINISI
+Kelainan pada struktur atau fungsi jantung yang ditemukan sejak bayi lahir. Kelainan ini terjadi akibat gangguan pembentukan jantung selama masa janin dalam kandungan.
+🔢 KODE DIAGNOSA (ICD-10) - PALING SERING
+• Q21.1 : Atrial septal defect (ASD - Kebocoran sekat serambi).
+• Q21.0 : Ventricular septal defect (VSD - Kebocoran sekat bilik).
+• Q25.0 : Patent ductus arteriosus (PDA - Saluran janin yang tidak menutup).
+• Q21.3 : Tetralogy of Fallot (ToF - Kombinasi 4 kelainan, tipe sianotik/biru).
+• Q23.1 : Congenital insufficiency of aortic valve (Kelainan katup aorta).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 88.72 : Echocardiography (Wajib: USG Jantung untuk diagnosa pasti).
+• 37.22 : Left heart cardiac catheterization (Kateterisasi jantung).
+• 35.51 : Repair of atrial septal defect with prosthesis (Tindakan ASO/Penutupan ASD).
+• 35.62 : Repair of ventricular septal defect with graft (Penutupan VSD).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Diagnosis Spesifik: Hindari kode Q24.9 (Kelainan jantung bawaan tidak spesifik). Pastikan hasil Echocardiography terbaca jelas untuk menentukan apakah itu ASD, VSD, atau PDA, karena masing-masing memiliki bobot tarif berbeda.
+2. Kaitan dengan Gagal Jantung: Jika bayi dengan PJB mengalami sesak atau gagal napas, pastikan kode I50.9 (Heart failure) atau P29.0 (Neonatal cardiac failure) diinput sebagai diagnosa sekunder untuk mencapai Severity Level yang lebih tinggi.
+3. PJB Sianotik vs Non-Sianotik: Bedakan antara PJB Biru (misal: ToF Q21.3) dan Tidak Biru (misal: VSD Q21.0). Dokumentasikan saturasi oksigen pasien di rekam medis untuk mendukung diagnosa PJB Sianotik.
+💡 TIPS KODER
+Gunakan kode Bab Q (Kongenital) sebagai diagnosa utama. Jika pasien datang hanya untuk evaluasi rutin paska operasi jantung lama, pertimbangkan penggunaan kode Z95.x (Presence of cardiac and vascular grafts). Selalu lampirkan laporan hasil Echocardiography terbaru karena merupakan bukti medis terkuat untuk memvalidasi klaim PJB di mata verifikator.",,
+GEA,"DEFINISI
+Inflamasi pada saluran pencernaan yang ditandai dengan peningkatan frekuensi buang air besar (diare) dan/atau muntah.
+🔢 KODE DIAGNOSA (ICD-10)
+- A09.9 – Gastroenteritis and colitis of infectious origin, unspecified (GEA secara umum).
+- A00 - A08 – Gunakan jika penyebab spesifik diketahui (misal: Amoebiasis, Rotavirus).
+- E86 – Volume depletion (Wajib ditambahkan jika pasien mengalami DEHIDRASI).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 99.18 – Injection or infusion of electrolytes (Pemberian cairan infus/rehidrasi).
+- 91.1x – Microscopic examination of stool (Cek Feses Rutin).
+- 99.21 – Injection of antibiotic (Jika penyebabnya bakteri).
+📑 SYARAT KLAIM & KODING
+1. Derajat Dehidrasi: Wajib mencantumkan tanda dehidrasi (ringan/sedang/berat) di resume medis. Jika ada dehidrasi, kode E86 bisa mendongkrak group INA-CBG.
+2. Hasil Lab: Lampirkan hasil Feses Rutin (cek adanya amuba, bakteri, atau leukosit dalam feses).
+3. Terapi: Dokumentasikan jumlah cairan infus yang diberikan dalam 24 jam pertama.
+💡 CATATAN STRATEGIS
+GEA tanpa dehidrasi sering kali tidak layak rawat inap menurut verifikator. Pastikan diagnosa ""Dehidrasi"" tertulis jelas dan didukung pemeriksaan fisik (turgor kulit lambat, mata cekung, dsb) agar klaim aman.",,
+CAD,"📖 DEFINISI
+Coronary Artery Disease (CAD) atau Penyakit Jantung Koroner (PJK) adalah gangguan fungsi jantung akibat otot jantung kekurangan darah karena penyempitan pembuluh darah koroner.
+🔢 KODE DIAGNOSA (ICD-10)
+- I25.1 – Atherosclerotic heart disease (CAD/PJK Kronis).
+- I21.9 – Acute myocardial infarction, unspecified (Serangan Jantung Akut/STEMI/NSTEMI).
+- I20.0 – Unstable angina (Nyeri dada tidak stabil).
+- I25.2 – Old myocardial infarction (Riwayat serangan jantung di masa lalu).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 89.52 – Electrocardiogram (EKG).
+- 88.72 – Echocardiography (USG Jantung).
+- 37.22 – Left heart cardiac catheterization (Kateterisasi Jantung/Angiografi).
+- 00.66 – Percutaneous transluminal coronary angioplasty (PTCA/Pasang Ring).
+📑 SYARAT KLAIM & KODING
+1. Pemeriksaan Penunjang: Wajib melampirkan hasil EKG (ST-elevasi/depresi) dan hasil laboratorium Enzim Jantung (Troponin I/T atau CK-MB).
+2. Kesesuaian Diagnosa: Gunakan I21.x jika ada peningkatan enzim jantung (serangan akut), dan gunakan I25.1 jika pasien hanya kontrol rutin dengan kondisi stabil.
+3. Hasil Tindakan: Jika sudah dilakukan kateterisasi, lampirkan print-out hasil kesimpulan dokter jantung.
+💡 CATATAN STRATEGIS
+Kasus CAD sering kali disertai dengan gagal jantung (CHF/I11.0). Pastikan keduanya dikoding jika pasien mengeluh sesak napas dan hasil rontgen menunjukkan pembengkakan jantung (Cardiomegaly).",,
+INJEKSI INTRA-ARTIKULAR (PENYUNTIKAN SENDI),"📖 DEFINISI
+Prosedur medis berupa pemberian obat (cairan) langsung ke dalam ruang sendi (intra-articular) untuk mengatasi peradangan, mengurangi nyeri, atau menambah pelumas sendi.
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 81.92 : Injection of therapeutic substance into joint or ligament (KODE UTAMA untuk semua lokasi sendi: lutut, bahu, panggul, dll).
+• 00.15 : High-dose infusion of interleukin-2 IL-2 (Jika obat yang disuntikkan adalah agen biologis spesifik).
+• 81.91 : Arthrocentesis (Jika dilakukan penyedotan cairan sendi/aspirasi sebelum penyuntikan obat).
+🔢 KODE DIAGNOSA (ICD-10)
+• M17.x : Osteoarthritis of knee (Lutut - Paling umum).
+• M19.9 : Arthrosis, unspecified.
+• M65.x : Synovitis and tenosynovitis.
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Lokasi & Sisi: Dokumentasikan lokasi sendi (Lutut/Genu, Bahu/Shoulder) dan sisi (Dextra/Sinistra). Jika dilakukan pada kedua lutut (bilateral), pastikan jumlah tindakan diinput 2 atau sesuai aturan klaim setempat.
+2. Nama Obat: Wajib mencantumkan nama obat yang disuntikkan (misal: Triamcinolone, Hyaluronate/Ostenil/Hyalgan) dalam laporan tindakan atau catatan perkembangan pasien terintegrasi (CPPT).
+3. Alat Bantu: Jika penyuntikan dilakukan dengan panduan USG (USG-Guided), tambahkan kode prosedur 88.7x untuk mendukung kompleksitas tindakan.
+💡 TIPS KODER
+Injeksi intra-artikular (81.92) sering kali digabung dengan Arthrocentesis (81.91) jika dokter membuang cairan sendi yang berlebih sebelum memasukkan obat. Pastikan kedua kode tersebut diinput jika memang dilakukan kedua tindakan tersebut dalam satu sesi untuk mengoptimalkan grouping INA-CBG.",,
+KURETASE (DILATION AND CURETTAGE / D&C),"📖 DEFINISI
+Prosedur pembedahan kecil untuk mengeluarkan jaringan dari dalam rahim. Umumnya dilakukan setelah keguguran (aborsi inkomplit), untuk mengatasi perdarahan uterus abnormal, atau pengambilan sampel jaringan (biopsi endometrium).
+🔢 KODE DIAGNOSA (ICD-10)
+• O03.4 : Incomplete spontaneous abortion, without complication (Keguguran spontan sisa jaringan).
+• O02.1 : Missed abortion (Janin tidak berkembang/meninggal di dalam rahim tanpa perdarahan).
+• N93.9 : Abnormal uterine and vaginal bleeding, unspecified (Perdarahan rahim tidak teratur).
+• O06.4 : Unspecified abortion, incomplete (Jika status keguguran tidak spesifik).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 69.02 : Dilation and curettage for termination of pregnancy (Kuret untuk keguguran/terminasi).
+• 69.09 : Other dilation and curettage (Kuret diagnostik atau untuk perdarahan non-kehamilan).
+• 75.0 : Intra-amniotic injection for abortion (Jika diawali dengan induksi obat).
+• 88.79 : Other diagnostic ultrasound of soft tissue (USG konfirmasi sebelum/sesudah tindakan).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Incomplete vs Complete: Pastikan diagnosa adalah ""Incomplete"" (O03.4) jika dilakukan kuretase. Jika didiagnosa ""Complete Abortion"", secara teori tidak diperlukan tindakan kuret, sehingga klaim prosedur 69.02 berisiko ditolak (dispute) oleh verifikator.
+2. Kondisi Penyerta: Jika pasien mengalami perdarahan hebat hingga anemia, pastikan kode D62 (Acute posthaemorrhagic anaemia) diinput sebagai diagnosa sekunder untuk meningkatkan bobot klaim dan mencerminkan kebutuhan transfusi atau observasi ketat.
+3. Missed Abortion: Untuk kode O02.1 (Missed Abortion), pastikan hasil USG yang menunjukkan ""no fetal heart beat"" atau ""kantong gestasi kosong"" terlampir untuk memvalidasi tindakan kuretase.
+💡 TIPS KODER
+Bedakan penggunaan kode 69.02 dan 69.09. Kode 69.02 khusus untuk kasus terkait kehamilan (keguguran), sementara 69.09 digunakan untuk kasus ginekologi murni (seperti kuretase pada penebalan dinding rahim/hiperplasia endometrium). Ketepatan kode prosedur sangat menentukan validitas grup INA-CBG yang dihasilkan.
+",,
+�� PERITONITIS ADHESIOLYSIS,"📖 DEFINISI
+Tindakan pembedahan (Adhesiolysis) untuk membebaskan perlengketan antar organ dalam perut (usus, omentum, dinding perut) yang terjadi akibat proses peradangan berat (Peritonitis). Perlengketan ini sering menyebabkan usus tersumbat (Ileus Obstruktif).
+🔢 KODE DIAGNOSA (ICD-10)
+• K65.0 : Acute peritonitis (Peritonitis akut - Diagnosa Utama jika infeksi masih aktif).
+• K56.5 : Intestinal adhesions bands with obstruction (Perlengketan usus dengan sumbatan/ileus).
+• K66.0 : Peritoneal adhesions (Perlengketan peritoneum tanpa spesifikasi sumbatan).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 54.59 : Other lysis of peritoneal adhesions (Tindakan utama pelepasan lengketan).
+• 54.11 : Exploratory laparotomy (Prosedur pembukaan dinding perut untuk mencari sumber infeksi).
+• 54.19 : Other laparotomy (Pembersihan/Lavage rongga perut dari nanah/cairan).
+• 54.91 : Percutaneous abdominal drainage (Pemasangan drain).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Aturan ""Separate Procedure"": Kode 54.59 sering dianggap paket jika dilakukan pada area yang sama dengan operasi utama (misal: Appendektomi). Pastikan dokter menulis: ""Adhesiolysis dilakukan pada area yang jauh dari fokus infeksi primer"" atau ""Perlengketan sangat hebat (dense) sehingga membutuhkan waktu tambahan >30 menit"".
+2. Kombinasi Tarif: Peritonitis (K65.0) + Adhesiolysis (54.59) melalui Laparotomi (54.11) akan menghasilkan Severity Level yang tinggi karena kompleksitas kasusnya.
+3. Dokumentasi: Verifikator mewajibkan adanya deskripsi perlengketan di Laporan Operasi (misal: ""usus lengket membentuk massa"", ""dilakukan pembebasan secara tajam"").
+💡 TIPS KODER
+Gunakan K65.0 sebagai diagnosa utama jika pasien datang dalam kondisi perut papan (defans muskular) dan demam tinggi. Jika pasien datang karena tidak bisa BAB akibat riwayat operasi lama, gunakan K56.5 sebagai diagnosa utama. Jangan lupa input kode Lavage (54.19) jika dokter mencuci rongga perut dengan cairan NaCl dalam jumlah banyak",,
+���� CHOLECYSTITIS (RADANG KANTUNG EMPEDU),"📖 DEFINISI
+Peradangan pada dinding kantung empedu yang biasanya terjadi akibat sumbatan cairan empedu di saluran sistikus. Seringkali dipicu oleh adanya batu empedu.
+🔢 KODE DIAGNOSA (ICD-10)
+• K81.0 : Acute cholecystitis (Radang empedu akut - Nyeri hebat mendadak).
+• K81.1 : Chronic cholecystitis (Radang empedu kronis).
+• K80.0 : Calculus of gallbladder with acute cholecystitis (Radang empedu akut + ADA BATU).
+• K80.1 : Calculus of gallbladder with other cholecystitis (Radang empedu kronis + ADA BATU).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 51.22 : Cholecystectomy (Operasi pengangkatan kantung empedu terbuka).
+• 51.23 : Laparoscopic cholecystectomy (Operasi via Laparoskopi/minimal invasif).
+• 88.76 : Diagnostic ultrasound of abdomen (USG Abdomen untuk melihat penebalan dinding empedu).
+• 99.21 : Injection or infusion of antibiotics.
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Ada Batu vs Tidak: Jika dokter menyebutkan ada batu, gunakan kode K80.x. Kode K80 memiliki bobot INA-CBG yang lebih baik dibandingkan kode K81 (hanya radang tanpa batu).
+2. Teknik Operasi: Pastikan membedakan kode 51.22 (Bedah Terbuka) dan 51.23 (Laparoskopi). Tindakan Laparoskopi biasanya memiliki tarif paket yang lebih tinggi karena penggunaan alat canggih.
+3. Kolesistitis Akut: Diagnosa K81.0 atau K80.0 sering dianggap sebagai kasus akut/emergency yang memerlukan penanganan segera, mendukung validitas rawat inap.
+💡 TIPS KODER
+Gunakan K80.0 sebagai diagnosa utama jika pasien dioperasi karena radang empedu akut akibat batu. Pastikan hasil USG Abdomen yang menunjukkan ""Murphy Sign (+)"" atau ""Penebalan Dinding Kantung Empedu >4mm"" terlampir dalam berkas klaim untuk memperkuat diagnosa medis di mata verifikator BPJS.",,
+HIPOALBUMINEMIA (KADAR ALBUMIN RENDAH),"📖 DEFINISI
+Kondisi ketika kadar albumin (protein utama dalam darah) berada di bawah rentang normal (< 3,5 g/dL). Albumin berfungsi menjaga tekanan onkotik agar cairan tetap di dalam pembuluh darah. Jika rendah, cairan merembes ke jaringan dan menyebabkan pembengkakan (edema/asites).
+🔢 KODE DIAGNOSA (ICD-10)
+• E88.0 : Disorders of plasma-protein metabolism, not elsewhere classified (KODE UTAMA untuk hipoalbuminemia).
+• E43 : Unspecified severe protein-energy malnutrition (Jika disebabkan malnutrisi protein berat).
+• N04.9 : Nephrotic syndrome, unspecified (Jika albumin bocor melalui ginjal).
+• K74.6 : Other and unspecified cirrhosis of liver (Jika hati gagal memproduksi albumin).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.15 : Parenteral infusion of concentrated substances (Pemberian infus Albumin 20% atau 25%).
+• 89.52 : Electrocardiogram (Sering dilakukan jika terjadi gangguan cairan/elektrolit).
+• 54.91 : Percutaneous abdominal drainage (Tindakan sedot cairan/asites akibat hipoalbumin).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Diagnosis Sekunder: E88.0 adalah Comorbidity (CC) yang kuat. Menginput kode ini sebagai diagnosa sekunder sering kali meningkatkan Severity Level (dari level 1 ke 2 atau 3), yang secara signifikan menaikkan nilai klaim INA-CBG.
+2. Bukti Penunjang: Pastikan hasil laboratorium (Albumin < 3.5 g/dL) terlampir dan ada instruksi pemberian infus albumin atau diet tinggi protein (putih telur) untuk memvalidasi klaim ke verifikator.
+3. Korelasi Terapi: Jika rumah sakit mengeluarkan biaya mahal untuk infus Albumin, kode E88.0 wajib ada sebagai justifikasi medis penggunaan obat tersebut.
+💡 TIPS KODER
+Jangan hanya menulis ""Hipoalbumin"" jika penyebabnya jelas karena malnutrisi berat; gunakan kode E43-E46 karena memiliki bobot yang sangat tinggi. Namun, untuk kasus umum di bangsal rawat inap, E88.0 adalah kode paling aman dan akurat untuk mendampingi diagnosa utama seperti Gagal Ginjal atau Sirosis.",,
+MEASLES / CAMPAK (MORBILI),"📖 DEFINISI
+Penyakit infeksi virus akut yang sangat menular, ditandai dengan gejala prodromal (demam, batuk, pilek, konjungtivitis), bercak Koplik pada mukosa mulut, dan ruam makulopapular yang khas.
+🔢 KODE DIAGNOSA (ICD-10) - CEK KOMPLIKASI
+• B05.9 : Measles without complication (Campak tanpa komplikasi).
+• B05.2 : Measles complicated by pneumonia (J01†) (Campak dengan komplikasi paru).
+• B05.3 : Measles complicated by otitis media (H67.1) (Campak dengan komplikasi infeksi telinga).
+• B05.0 : Measles complicated by encephalitis (G05.1) (Campak dengan komplikasi radang otak).
+• B05.8 : Measles with other complications (Misal: Campak dengan diare atau keratitis).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.21 : Injection or infusion of antibiotics (Jika ada infeksi sekunder bakteri).
+• 99.18 : Injection or infusion of electrolytes (Jika terjadi dehidrasi akibat diare/morbili).
+• 93.94 : Respiratory medication administered by nebulizer (Jika ada gangguan pernapasan/croup).
+• 95.41 : Audiometry (Jika ada kecurigaan gangguan pendengaran pasca-otitis).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Diagnosis Utama: Jika pasien masuk karena campak namun mengalami Pneumonia berat, gunakan B05.2 sebagai Diagnosa Utama. Kode ini memiliki bobot tarif yang jauh lebih tinggi daripada B05.9.
+2. Status Imunisasi: Riwayat imunisasi MR/MMR yang tidak lengkap dapat dicatat dengan kode Z28.x sebagai diagnosa sekunder untuk data epidemiologi RSUD Tapanuli Selatan.
+3. Isolasi: Pasien campak wajib dirawat di ruang isolasi. Pastikan dokumentasi prosedur isolasi tercatat untuk melegalkan penggunaan tarif akomodasi khusus jika tersedia.
+💡 TIPS KODER
+Perhatikan tanda ""Koplik Spots"" di catatan medis sebagai bukti penguat diagnosa klinis. Jika pasien mengalami diare berat hingga dehidrasi, gunakan B05.8 sebagai DU dan tambahkan E86 (Volume depletion) sebagai DS untuk meningkatkan kompleksitas kasus.",,
+PARKINSON DISEASE,"📖 DEFINISI
+Penyakit degeneratif pada sistem saraf pusat yang menyebabkan gangguan gerak. Gejala khas: Tremor (gemetar saat istirahat), Rigidity (kaku otot), Bradykinesia (gerakan lambat), dan gangguan keseimbangan.
+🔢 KODE DIAGNOSA (ICD-10)
+• G20 : Parkinson's disease (Penyakit Parkinson idiopatik/primer).
+• G21.x : Secondary parkinsonism (Jika disebabkan obat-obatan, sifilis, atau trauma).
+• G22 : Parkinsonism in diseases classified elsewhere (Parkinson pada penyakit lain).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.21 : Injection or infusion of other therapeutic or prophylactic substance (Pemberian infus pendukung).
+• 93.17 : Other passive exercises (Fisioterapi untuk melatih mobilitas/gerak).
+• 93.01 : Functional evaluation (Evaluasi fungsi motorik oleh dokter spesialis).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Pneumonia Aspirasi (J69.0): Pasien Parkinson sering mengalami gangguan menelan (disfagia). Jika pasien dirawat karena sesak setelah tersedak, gunakan J69.0 sebagai diagnosa utama dan G20 sebagai sekunder. Ini kombinasi yang sangat kuat meningkatkan tarif karena tingkat kesulitan perawatan yang tinggi.
+2. Risiko Jatuh (Fracture): Perhatikan jika pasien datang dengan patah tulang akibat jatuh. Penyakit Parkinson (G20) wajib diinput sebagai diagnosa sekunder untuk menjelaskan penyebab jatuh, sehingga klaim lebih logis bagi verifikator.
+3. Dementia in Parkinson: Jika pasien sudah mulai pikun/lupa, gunakan kode G20† dan F02.3 sesuai sistem dagger dan asterisk.
+💡 TIPS KODER
+Gunakan G20 sebagai diagnosa utama jika pasien kontrol rutin untuk terapi Levodopa/Carbidopa. Pastikan pemeriksaan fisik seperti ""Cogwheel Rigidity"" atau ""Resting Tremor"" terdokumentasi dalam resume medis untuk memvalidasi koding di mata verifikator BPJS.",,
+CANCER PAIN (NYERI TERKAIT KEGANASAN),"📖 DEFINISI
+Nyeri yang disebabkan oleh penyakit kanker primer, metastasis (penyebaran), atau prosedur pengobatan kanker. Nyeri ini dapat bersifat somatik, viseral, maupun neuropatik.
+🔢 KODE DIAGNOSA (ICD-10)
+• G89.3 : Neoplasm related pain (acute) (chronic) (KODE UTAMA - Khusus untuk nyeri akibat kanker).
+• C00 - D48 : Kode Neoplasma (Wajib diinput sebagai diagnosa penyerta untuk menunjukkan lokasi kankernya).
+• R52.1 : Chronic intractable pain (Jika nyeri sudah tidak responsif dengan pengobatan standar).
+• R52.2 : Other chronic pain.
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.29 : Injection of other therapeutic substance (Injeksi analgetik/ketorolac/obat anti-nyeri).
+• 03.90 : Insertion of catheter into spinal canal for infusion of therapeutic substance (Pemberian antinyeri via epidural).
+• 03.91 : Injection of anesthetic into spinal canal for analgesia.
+• 00.17 : Infusion of vasopressor agent (Jika menggunakan pump antinyeri kontinyu).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Aturan Koding: Berdasarkan ICD-10, jika pasien datang khusus untuk manajemen nyeri kankernya, maka G89.3 dapat menjadi Diagnosa Utama, diikuti kode kankernya (Cxx) sebagai Diagnosa Sekunder.
+2. Skala Nyeri (VAS/NRS): Wajib mencantumkan skor nyeri (misal: VAS 7/10) dalam pengkajian awal. Tanpa skor nyeri yang tinggi, penggunaan obat golongan Narkotika (Morfin, Fentanyl, MST) sering dipertanyakan verifikator.
+3. Metastase Tulang: Jika nyeri disebabkan penyebaran ke tulang, pastikan kode C79.5 (Secondary malignant neoplasm of bone) diinput untuk memperkuat alasan nyeri yang hebat.
+💡 TIPS KODER
+Gunakan kode G89.3 untuk meningkatkan akurasi koding pada pasien paliatif. Penambahan kode nyeri kronis ini sering kali membantu dalam pengelompokan INA-CBG yang lebih tepat pada kasus keganasan berat. Pastikan ada catatan ""Pain Management"" atau konsultasi ke Tim Nyeri/Anestesi dalam berkas klaim.",,
+CANDIDIASIS OROFARINGEAL (THRUSH MULUT),"📖 DEFINISI
+Infeksi oportunistik pada rongga mulut dan tenggorokan yang disebabkan oleh pertumbuhan berlebih jamur Candida. Sering terjadi pada pasien dengan sistem imun lemah (HIV, DM), pengguna steroid inhalasi (Asma), atau paska-pengobatan antibiotik spektrum luas.
+🔢 KODE DIAGNOSA (ICD-10)
+• B37.0 : Candidal stomatitis (KODE UTAMA - Jamur di mulut/Sariawan jamur).
+• B37.8 : Candidiasis of other sites (Jika sudah menyebar ke faring/tenggorokan).
+• B20.4 : HIV disease resulting in candidiasis (Jika terjadi pada pasien HIV/AIDS - KODE UTAMA).
+• K12.1 : Other forms of stomatitis (Diagnosa banding).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 91.61 : Microscopic examination of specimen from skin and other adnexa (Pemeriksaan KOH/Swab mulut).
+• 99.29 : Injection or infusion of other therapeutic substance (Pemberian Antijamur: Nystatin drop / Fluconazole).
+• 96.35 : Gastric gavage (Pemasangan NGT - Jika pasien sulit menelan karena nyeri hebat).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Bukti Klinis: Wajib mendokumentasikan gambaran khas ""Plak Putih"" (White patches) pada lidah, palatum, atau mukosa pipi dalam rekam medis.
+2. Koinfeksi HIV: Jika Candidiasis ditemukan pada pasien HIV, pastikan menggunakan kode B20.4. Ini akan mengarahkan klaim ke group HIV dengan komplikasi infeksi oportunistik yang memiliki tarif INA-CBG lebih tinggi dibandingkan hanya kode B37.0.
+3. Pemeriksaan KOH: Lampirkan hasil laboratorium Swab Mulut/KOH yang menunjukkan adanya Pseudohyphae atau Budding Yeast untuk memvalidasi diagnosa infeksi jamur secara objektif.
+💡 TIPS KODER
+Gunakan kode B37.0 sebagai diagnosa utama jika pasien datang khusus dengan keluhan jamur mulut. Jika Candidiasis muncul sebagai penyerta pada pasien Diabetes Melitus yang tidak terkontrol, pastikan kode E11.6 (DM with other specified complications) juga diinput. Perhatikan jika jamur sudah sampai ke kerongkongan (Esofagus), karena kodenya akan berubah menjadi B37.81 (Candidal esophagitis) yang biasanya memerlukan tindakan Endoskopi (42.23).",,
+RDS,"📖 DEFINISI
+Respiratory Distress Syndrome (RDS) atau Penyakit Membran Hialin adalah gangguan pernapasan pada bayi baru lahir (terutama prematur) akibat kekurangan surfaktan pada paru-paru.
+🔢 KODE DIAGNOSA (ICD-10)
+- P22.0 – Respiratory distress syndrome of newborn (Kode utama RDS).
+- P22.1 – Transient tachypnoea of newborn (TTN - Diagnosa banding, beda bobot biaya).
+- P07.x – Gangguan terkait usia kehamilan rendah/prematuritas (Wajib ditambahkan sebagai diagnosa sekunder).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 93.90 – Non-invasive mechanical ventilation (CPAP / PEEP).
+- 96.71 – Continuous mechanical ventilation (Ventilator < 96 jam).
+- 96.04 – Insertion of endotracheal tube (Intubasi).
+- 38.91 – Arterial catheterization (Pengambilan AGD).
+- 96.06 – Instillation of surfactant (Pemberian Surfaktan via ETT).
+📑 SYARAT KLAIM & KODING
+1. Pemeriksaan Penunjang: Wajib melampirkan hasil Rontgen Thorax (gambaran ground glass appearance/reticulogranular).
+2. Analisa Gas Darah (AGD): Lampirkan hasil laboratorium yang menunjukkan asidosis respiratorik atau hipoksemia.
+3. Skor Down/Silverman: Dokumentasi skor sesak napas di resume medis sangat membantu memperkuat diagnosa.
+4. Berat Badan Lahir: Harus sinkron dengan kode prematuritas (P07) karena memengaruhi group INA-CBG.
+💡 CATATAN STRATEGIS
+RDS sering kali menjadi diagnosa utama di NICU. Pastikan penggunaan alat bantu napas (CPAP/Ventilator) terdokumentasi durasinya secara akurat di laporan harian, karena perbedaan durasi ventilasi dapat mengubah nilai klaim secara signifikan.",,
+HEPATOMA (HEPATOCELLULAR CARCINOMA - HCC),"📖 DEFINISI
+Kanker hati primer yang paling sering ditemukan. Sel-sel hati (hepatosit) mengalami mutasi dan tumbuh tidak terkendali, membentuk massa atau nodul. Faktor risiko utama meliputi infeksi virus Hepatitis kronis, konsumsi alkohol, dan perlemakan hati (NAFLD).
+🔢 KODE DIAGNOSA (ICD-10)
+• C22.0 : Liver cell carcinoma (KODE UTAMA - Hepatoma/HCC).
+• K74.6 : Other and unspecified cirrhosis of liver (Sirosis Hati - KODE PENYEBAB).
+• B18.1 : Chronic viral hepatitis B without delta-agent (Hepatitis B kronis).
+• B18.2 : Chronic viral hepatitis C (Hepatitis C kronis).
+• R18 : Ascites (Busung air perut - Gejala penyerta).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 50.11 : Closed (percutaneous) needle biopsy of liver (Biopsi Hati / FNAB - Syarat konfirmasi patologi).
+• 88.76 : Diagnostic ultrasound of abdomen (USG Abdomen - Skrining awal).
+• 87.03 : CT Scan Head (Gunakan kode CT Abdomen 88.01 untuk mencari massa hati).
+• 50.22 : Partial hepatectomy (Operasi pengangkatan sebagian hati).
+• 99.25 : Injection or infusion of cancer chemotherapeutic substance (Kemoterapi / TACE).
+• 90.59 : Blood examination (Cek Penanda Tumor: AFP / Alfa-Fetoprotein).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Penanda Tumor (AFP): Wajib melampirkan hasil lab AFP (Alpha-Fetoprotein) yang meningkat signifikan sebagai pendukung diagnosa keganasan hati. Tanpa AFP atau Biopsi, diagnosa kode 'C' sering di-dispute oleh verifikator.
+2. Kaitan dengan Sirosis: Sebagian besar Hepatoma muncul di hati yang sudah Sirosis. Dokumentasikan tanda-tanda sirosis seperti asites (perut membesar), varises esofagus, atau penurunan kadar albumin (E88.0).
+3. Penyebab (Etiologi): Masukkan kode Hepatitis B (B18.1) atau C (B18.2) sebagai diagnosa sekunder jika pasien memilikinya, karena meningkatkan kompleksitas kasus dan memvalidasi alasan munculnya kanker.
+💡 TIPS KODER
+Gunakan kode C22.0 untuk setiap kasus keganasan hati primer. Jika pasien datang untuk prosedur TACE (Transarterial Chemoembolization), pastikan kode tindakan tersebut (biasanya kombinasi 99.25 dan tindakan radiologi intervensi) terinput dengan benar. Selalu cek hasil radiologi (USG/CT Scan) yang menyebutkan adanya massa berbenjol-benjol (nodul) pada hati untuk memperkuat koding diagnosa utama.",,
+FEBRILE NEUTROPENIA,"📖 DEFINISI
+Kondisi di mana suhu tubuh >38.3°C (demam) yang disertai dengan penurunan jumlah neutrofil secara drastis (Absolute Neutrophil Count <500 sel/mm³). Ini adalah komplikasi serius dari kemoterapi atau gangguan sumsum tulang.
+🔢 KODE DIAGNOSA (ICD-10) - HARUS LENGKAP
+• D70.1 : Chemotherapy induced neutropenia (Neutropenia akibat kemoterapi).
+• D70.9 : Neutropenia, unspecified (Jika penyebab belum dipastikan).
+• R50.81 : Fever presenting with conditions classified elsewhere (Kode tambahan untuk demamnya).
+• A41.9 : Sepsis, unspecified (Tambahkan jika pasien menunjukkan tanda-tanda infeksi sistemik/SIRS).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.21 : Injection or infusion of antibiotics (Pemberian antibiotik intravena dosis tinggi).
+• 99.11 : Injection or infusion of cancer chemotherapeutic substance (Jika Bapak perlu mencatat riwayat kemoterapi penyebabnya).
+• 90.59 : Microscopic examination of blood (Pemeriksaan hitung jenis leukosit/ANC berkala).
+• 91.62 : Culture of specimen from skin and subcutaneous tissue (Kultur darah/urin untuk mencari sumber infeksi).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Diagnosis Utama: Gunakan D70.x sebagai diagnosa utama. Menggabungkan D70 dengan R50.81 (Febrile) sangat penting untuk menggambarkan kondisi ""Febrile Neutropenia"" secara akurat di sistem INA-CBG.
+2. Severity Level: Diagnosa ini sering kali memiliki bobot yang tinggi. Jika disertai dengan Sepsis (A41.x), Severity Level akan naik ke Level 3, yang secara signifikan meningkatkan nilai klaim.
+3. Kaitan dengan Kanker: Jika ini terjadi pasca-kemoterapi, pastikan kode neoplasma (kanker) tetap dicantumkan sebagai diagnosa sekunder untuk menjelaskan konteks klinisnya.
+💡 TIPS KODER
+Pastikan hasil laboratorium yang menunjukkan ANC <500 terlampir sebagai bukti pendukung utama. Penggunaan obat perangsang sel darah putih seperti G-CSF (Filgrastim) dalam terapi harus terdokumentasi di laporan farmasi untuk melegalkan biaya perawatan yang tinggi di RSUD Tapanuli Selatan.",,
+�� CHF (CONGESTIVE HEART FAILURE / GAGAL JANTUNG),"📖 DEFINISI
+Kondisi di mana jantung tidak mampu memompa darah dalam jumlah yang cukup ke seluruh tubuh, menyebabkan penumpukan cairan di paru-paru, kaki, dan jaringan lainnya.
+🔢 KODE DIAGNOSA (ICD-10)
+• I50.0 : Congestive heart failure (Kode standar untuk CHF).
+• I50.1 : Left ventricular failure (Jika dominan gangguan jantung kiri, biasanya disertai sesak napas berat/oedema paru).
+• I50.9 : Heart failure, unspecified (Gunakan jika jenis gagal jantung tidak dirinci).
+• I11.0 : Hypertensive heart disease with (congestive) heart failure (Gunakan jika CHF disebabkan oleh Hipertensi Kronis).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 89.52 : Electrocardiogram / EKG (Pemeriksaan rekam jantung).
+• 88.72 : Echocardiography / USG Jantung (Untuk melihat fraksi ejeksi/EF).
+• 93.96 : Other oxygen enrichment (Pemberian oksigen via nasal kanul/masker).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Klasifikasi NYHA: Sangat baik jika dokter mencantumkan derajat sesak (NYHA Class I-IV). NYHA III-IV menunjukkan kondisi yang lebih berat dan memerlukan perawatan intensif.
+2. Data Dukung Radiologi: Wajib melampirkan hasil Rontgen Thorax yang menunjukkan ""Cardiomegaly"" atau ""Oedema Paru/Pulmonary Congestion"".
+3. Pemeriksaan Lab: Hasil NT-proBNP yang tinggi merupakan penanda biokimia yang sangat kuat untuk memvalidasi diagnosa CHF saat audit BPJS.
+💡 TIPS KODER
+Jika pasien memiliki Hipertensi dan CHF sekaligus, gunakan kode kombinasi I11.0. Kode ini memiliki bobot klaim yang lebih tinggi dibandingkan menginput I10 (Hipertensi) dan I50.0 secara terpisah, karena menunjukkan adanya kerusakan organ target (jantung) akibat tekanan darah tinggi.",,
+HERNIOTOMY,"DEFINISI
+Herniotomy adalah tindakan pembedahan untuk memotong kantong hernia. Sering kali disertai dengan Hernioplasty (pemasangan mesh) atau Herniorraphy (penjahitan penguatan dinding perut).
+🔢 KODE DIAGNOSA (ICD-10)
+- K40.9 – Unilateral inguinal hernia, without obstruction or gangrene (Hernia Inguinalis umum).
+- K40.3 – Unilateral inguinal hernia, with obstruction, without gangrene (Hernia Inkarserata/Terjepit).
+- K42.9 – Umbilical hernia without obstruction or gangrene (Hernia Umbilikalis/Pusar).
+- K43.9 – Ventral hernia without obstruction or gangrene (Hernia Incisional/Bekas Operasi).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 53.00 – Unilateral repair of inguinal hernia (Operasi hernia satu sisi).
+- 53.10 – Bilateral repair of inguinal hernia (Operasi hernia dua sisi sekaligus).
+- 53.05 – Repair of inguinal hernia with graft or prosthesis (Jika menggunakan MESH).
+- 53.49 – Other umbilical herniorrhaphy (Operasi hernia pusar).
+📑 SYARAT KLAIM & KODING
+1. Laporan Operasi: Wajib menyebutkan lokasi hernia (Inguinal, Scrotal, Femoral, atau Umbilikal) dan apakah ada pemasangan Mesh (graft).
+2. Kondisi Klinis: Jika hernia terjepit (Inkarserata), pastikan dokter mendokumentasikan gejala sumbatan atau nyeri hebat agar bisa dikoding K40.3 (tarif lebih tinggi).
+3. Pemeriksaan Fisik: Dokumentasikan ukuran benjolan dan apakah benjolan dapat dimasukkan kembali (reponibel) atau tidak (irreponebel).
+💡 CATATAN STRATEGIS
+Penggunaan Mesh (53.05) memiliki pengaruh besar pada penggunaan logistik medis. Pastikan kode prosedur mencerminkan penggunaan alat tersebut agar biaya alat kesehatan terakomodasi dalam tarif INA-CBG.
+",,
+"FRAKTUR KOMPRESI LUMBAL (L2, L3, L5)","📖 DEFINISI
+Patah tulang belakang di mana badan tulang (vertebra) mengalami penekanan hingga gepeng/runtuh. Kondisi ini sering menyebabkan nyeri punggung hebat, deformitas (bungkuk), hingga penekanan saraf jika fragmen tulang menonjol ke belakang.
+🔢 KODE DIAGNOSA (ICD-10)
+• S32.00 : Fracture of lumbar vertebra, level unspecified (Kode umum).
+• S32.02 : Fracture of second lumbar vertebra (L2).
+• S32.03 : Fracture of third lumbar vertebra (L3).
+• S32.05 : Fracture of fifth lumbar vertebra (L5).
+• M48.5 : Collapsed vertebra, not elsewhere classified (Jika fraktur terjadi karena pengeroposan/osteoporosis, bukan trauma akut).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 81.65 : Percutaneous vertebroplasty (Suntik semen tulang untuk memperkuat vertebra - Paling sering).
+• 81.66 : Percutaneous kyphoplasty (Suntik semen dengan bantuan balon untuk mengembalikan tinggi tulang).
+• 03.09 : Spinal decompression (Jika fragmen tulang menekan saraf).
+• 93.52 : Application of neck support (Pemasangan Brace/Korset TLSO - WAJIB diinput).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Multiple Level: Karena melibatkan L2, L3, dan L5, pastikan koder menginput kode diagnosa untuk setiap level (S32.02, S32.03, S32.05) atau setidaknya kode yang mewakili cedera multipel. Hal ini menunjukkan kompleksitas kasus yang lebih tinggi kepada verifikator.
+2. Brace/Korset: Pemasangan korset penyangga (TLSO Brace) sering kali dilakukan. Jangan lupa input kode 93.52 agar semua sumber daya yang digunakan rumah sakit tercover.
+3. Kaitan dengan Saraf: Cek apakah ada diagnosa Paraplegia (G82.2) atau Radikulopati. Jika fraktur kompresi menyebabkan kelumpuhan atau gangguan saraf, Severity Level akan otomatis naik ke Level 3.
+💡 TIPS KODER
+Gunakan S32.0x sebagai diagnosa utama jika disebabkan trauma (misal jatuh). Pastikan hasil Rontgen Lumbal atau CT Scan yang menyebutkan ""Kompresi"" dan ""Persentase loss of height"" terlampir. Jika fraktur bersifat patologis (karena kanker atau keropos), gunakan kode M48.5 agar tidak terjadi pendingan saat audit kesesuaian diagnosa vs kronologis.",,
+�� MYOCARDIAL INFARCTION (SERANGAN JANTUNG),"📖 DEFINISI
+Kematian otot jantung akibat gangguan aliran darah yang mendadak, biasanya disebabkan oleh penyumbatan pembuluh darah koroner.
+🔢 KODE DIAGNOSA (ICD-10)
+• I21.0 : STEMI dinding anterior (Anteroseptal).
+• I21.1 : STEMI dinding inferior (Diafragmatik).
+• I21.4 : NSTEMI (Acute subendocardial myocardial infarction).
+• I21.9 : Acute myocardial infarction, unspecified.
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Lokasi Infark: Digit keempat pada kode I21 sangat penting untuk menunjukkan lokasi sumbatan berdasarkan gambaran EKG.
+2. Waktu: Kode I21 digunakan untuk serangan akut (kurang dari 4 minggu). Jika lebih dari itu, gunakan kode I25.
+3. Data Dukung: Wajib melampirkan hasil EKG (ST-elevasi atau ST-depresi) dan pemeriksaan enzim jantung seperti Troponin T/I atau CK-MB yang meningkat.
+💡 TIPS KODER
+Pastikan dokter menuliskan diagnosa secara spesifik (STEMI/NSTEMI) di resume medis. Jika pasien dilakukan tindakan kateterisasi jantung, jangan lupa input kode prosedur 37.22 (Left heart cardiac catheterization).",,
+UREMIA (SINDROM UREMIK),"📖 DEFINISI
+Kumpulan gejala klinis (seperti mual, muntah, gatal, hingga penurunan kesadaran) akibat penumpukan limbah nitrogen (Ureum & Kreatinin) dalam darah karena kerusakan fungsi ginjal yang berat.
+🔢 KODE DIAGNOSA (ICD-10)
+• N19 : Unspecified kidney failure (KODE UTAMA - Jika gagal ginjal tidak dirinci akut atau kronis).
+• N18.5 : Chronic kidney disease, stage 5 (Jika uremia terjadi pada Gagal Ginjal Kronis Stadium Akhir).
+• N17.9 : Acute kidney failure, unspecified (Jika uremia terjadi mendadak akibat Gagal Ginjal Akut).
+• N18.9 : Chronic kidney disease, unspecified.
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 39.95 : Hemodialysis (Tindakan cuci darah untuk membuang racun ureum).
+• 90.59 : Blood examination (Pemeriksaan kadar Ureum, Kreatinin, dan Elektrolit).
+• 54.98 : Peritoneal dialysis (Cuci darah melalui rongga perut/CAPD).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Bukti Laboratorium: Wajib melampirkan hasil Lab darah yang menunjukkan kadar Ureum dan Kreatinin yang tinggi (Azotemia).
+2. Gejala Klinis: Dokumentasi adanya ""Ensefalopati Uremikum"" (penurunan kesadaran) atau ""Gastropati Uremikum"" (mual muntah hebat) sangat menguatkan derajat keparahan diagnosa di mata verifikator.
+3. Indikasi Dialisis: Jika kadar Ureum sangat tinggi (biasanya >200 mg/dL) atau disertai hiperkalemia berat, tindakan Hemodialisa (39.95) menjadi penjustifikasi utama biaya perawatan yang besar.
+💡 TIPS KODER
+Gunakan kode N18.5 (CKD Stage 5) sebagai diagnosa utama jika pasien sudah rutin cuci darah. Jika pasien masuk dengan kondisi uremia berat dan baru pertama kali didiagnosa gagal ginjal, gunakan kode N19 atau N17.9. Pastikan diagnosa penyerta seperti Hipertensi (I10) atau Diabetes (E11) juga diinput karena gagal ginjal hampir selalu memiliki penyakit dasar tersebut.",,
+COLIC ABDOMEN (NYERI PERUT MELILIT),"📖 DEFINISI
+Nyeri perut hebat yang hilang timbul (melilit) akibat kontraksi otot polos pada organ berongga di dalam perut. Biasanya disebabkan oleh sumbatan atau peradangan pada saluran cerna, saluran kemih, atau saluran empedu.
+🔢 KODE DIAGNOSA (ICD-10)
+• R10.4 : Other and unspecified abdominal pain (KODE GEJALA - Gunakan jika penyebab belum pasti).
+• K35.8 : Acute appendicitis (Jika nyeri menetap di perut kanan bawah).
+• K56.6 : Intestinal obstruction, unspecified (Kolik akibat sumbatan usus/Ileus).
+• N23 : Unspecified renal colic (Kolik Renal/Ginjal - Nyeri menjalar ke pinggang).
+• K80.5 : Calculus of bile duct without cholangitis or cholecystitis (Kolik Bilier/Empedu).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 88.76 : Diagnostic ultrasound of abdomen (USG Abdomen - Wajib untuk mencari penyebab).
+• 87.11 : Flat and upright abdomen x-ray (BNO/Foto Polos Perut 3 Posisi).
+• 99.18 : Injection or infusion of electrolytes (Infus cairan).
+• 99.29 : Injection of antispasmodic (Pemberian obat anti-nyeri/antispasmodik).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Hindari Kode R sebagai Utama: Verifikator sering mempertanyakan jika pasien rawat inap hanya menggunakan kode R10.4 (Nyeri Perut). Sebisa mungkin tegakkan diagnosa pasti seperti Dyspepsia (K30), Gastritis (K29), atau Urolithiasis (N20) agar klaim lebih aman.
+2. Pemeriksaan Penunjang: Klaim kolik abdomen harus didukung hasil USG atau Rontgen. Jika ada hasil batu atau peradangan, gunakan kode spesifik penyakit tersebut sebagai diagnosa utama.
+3. Bedakan Lokasi:
+- Kolik Renal (N23) -> Tarif bedah/urologi.
+- Kolik Bilier (K80) -> Tarif bedah/interna.
+- Kolik Abdomen biasa (R10) -> Tarif medis umum (lebih rendah).
+💡 TIPS KODER
+Gunakan R10.4 hanya di IGD atau rawat jalan jika evaluasi belum selesai. Jika pasien masuk rawat inap, pastikan DPJP menuliskan diagnosa kerja yang lebih spesifik di lembar resume medis sebelum koding diinput ke E-Klaim. Jika nyeri disertai mual muntah hebat, masukkan kode R11 (Nausea and vomiting) sebagai diagnosa sekunder.",,
+KEJANG DEMAM,"DEFINISI
+Kejang Demam adalah bangkitan kejang yang terjadi pada kenaikan suhu tubuh (suhu rektal di atas 38°C) yang disebabkan oleh proses ekstrakranium. Biasanya terjadi pada anak usia 6 bulan sampai 5 tahun.
+🔢 KODE DIAGNOSA (ICD-10)
+- R56.0 – Febrile convulsions (Kode umum Kejang Demam).
+- R56.00 – Simple febrile convulsions (Kejang Demam Sederhana: <15 menit, tidak berulang dalam 24 jam).
+- R56.01 – Complex febrile convulsions (Kejang Demam Kompleks: >15 menit, berulang dalam 24 jam, atau kejang fokal).
+- R50.9 – Fever, unspecified (Gunakan sebagai diagnosa sekunder jika penyebab demam belum diketahui).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 99.25 – Injection of seizure control medication (Pemberian Diazepam/Antikonvulsan).
+- 96.04 – Insertion of ET tube (Jika terjadi henti napas/kejang lama).
+- 03.31 – Lumbar puncture (Untuk menyingkirkan kemungkinan Meningitis pada bayi).
+- 91.3x – Microscopic examination (Cek rutin darah/urin untuk mencari sumber infeksi).
+📑 SYARAT KLAIM & KODING
+1. Suhu Tubuh: Harus tercatat suhu tubuh saat pasien datang atau saat kejadian kejang di resume medis.
+2. Deskripsi Kejang: Dokumentasikan durasi dan tipe kejang (umum atau lokal) untuk menentukan apakah masuk kategori Sederhana atau Kompleks.
+3. Penyebab Demam: Pastikan diagnosa utama adalah penyebab infeksinya (misal: ISPA, GEA, atau Otitis Media) jika sudah tegak, dan Kejang Demam sebagai diagnosa sekunder yang signifikan.
+💡 CATATAN STRATEGIS
+Kejang Demam Kompleks (R56.01) sering kali membutuhkan observasi lebih lama dan pemeriksaan penunjang lebih detail. Pastikan perbedaan antara Kejang Demam dengan Epilepsi (G40) atau Meningitis (G03) terdokumentasi jelas lewat hasil lab atau pemeriksaan fisik (seperti tanda kaku kuduk).",,
+�� MYOCARDIAL INFARCTION (SERANGAN JANTUNG),"📖 DEFINISI
+Kematian otot jantung akibat gangguan aliran darah yang mendadak, biasanya disebabkan oleh penyumbatan pembuluh darah koroner.
+🔢 KODE DIAGNOSA (ICD-10)
+• I21.0 : STEMI dinding anterior (Anteroseptal).
+• I21.1 : STEMI dinding inferior (Diafragmatik).
+• I21.4 : NSTEMI (Acute subendocardial myocardial infarction).
+• I21.9 : Acute myocardial infarction, unspecified.
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Lokasi Infark: Digit keempat pada kode I21 sangat penting untuk menunjukkan lokasi sumbatan berdasarkan gambaran EKG.
+2. Waktu: Kode I21 digunakan untuk serangan akut (kurang dari 4 minggu). Jika lebih dari itu, gunakan kode I25.
+3. Data Dukung: Wajib melampirkan hasil EKG (ST-elevasi atau ST-depresi) dan pemeriksaan enzim jantung seperti Troponin T/I atau CK-MB yang meningkat.
+💡 TIPS KODER
+Pastikan dokter menuliskan diagnosa secara spesifik (STEMI/NSTEMI) di resume medis. Jika pasien dilakukan tindakan kateterisasi jantung, jangan lupa input kode prosedur 37.22 (Left heart cardiac catheterization).",,
+SEPSIS,"DEFINISI
+Sepsis adalah disfungsi organ yang mengancam jiwa yang disebabkan oleh respon tubuh yang tidak reguler terhadap infeksi.
+🔢 KODE DIAGNOSA (ICD-10)
+- A41.9 (Sepsis, unspecified organism) - Paling sering digunakan.
+- A41.0 (Sepsis due to Staphylococcus aureus).
+- R65.2 (Severe Sepsis) - Tambahkan jika ada kegagalan organ.
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 99.18 (Injeksi antibiotik spektrum luas).
+- 89.6x (Monitoring tekanan vena sentral/CVP).
+📑 SYARAT KLAIM & KODING (INA-CBG)
+1. Hasil Lab: Harus ada hasil Kultur (Darah/Urine) ATAU peningkatan Procalcitonin/CRP yang signifikan.
+2. Resume Medis: Skor SOFA/qSOFA harus tercermin (seperti penurunan kesadaran, tensi turun, atau sesak napas).
+3. Diagnosa Utama: Sepsis bisa menjadi diagnosa utama jika pasien datang sudah dalam kondisi sepsis.
+💡 CATATAN STRATEGIS
+Sepsis adalah diagnosa ""High Value"". Pastikan dokumentasi DPJP kuat (tertulis jelas di CPPT) agar tidak dianggap hanya infeksi biasa oleh verifikator BPJS.",,
+HYPOKALEMIA (KADAR KALIUM RENDAH),"📖 DEFINISI
+Kondisi di mana kadar kalium dalam darah berada di bawah nilai normal (biasanya < 3.5 mEq/L). Kondisi ini dapat menyebabkan kelemahan otot, gangguan irama jantung (aritmia), hingga kelumpuhan otot napas jika kadarnya sangat rendah.
+🔢 KODE DIAGNOSA (ICD-10)
+• E87.6 : Hypokalaemia (KODE UTAMA).
+• R94.3 : Abnormal results of cardiovascular function studies (Jika ditemukan gambaran EKG abnormal akibat kalium rendah).
+• I49.9 : Cardiac arrhythmia, unspecified (Jika kalium rendah menyebabkan gangguan irama jantung).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.18 : Injection or infusion of electrolytes (Pemberian Kalium/KCL via infus - Paling sering).
+• 90.59 : Blood examination (Cek Elektrolit/Kalium darah).
+• 89.52 : Electrocardiogram (EKG - Wajib dilakukan untuk monitoring jantung).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Peningkat Tarif: E87.6 adalah diagnosa sekunder yang sangat efektif menaikkan grup tarif INA-CBG. Pastikan diinput jika hasil lab menunjukkan Kalium < 3.5 mEq/L.
+2. Koreksi Kalium: Jika pasien diberikan drip KCL atau sediaan kalium oral (seperti KSR), pastikan tindakan 99.18 diinput. Verifikator akan melihat kesesuaian antara hasil lab rendah dengan terapi yang diberikan.
+3. Penyebab Penyerta: Hypokalemia sering dipicu oleh Diare (A09) atau penggunaan obat pencahar/diuretik. Pastikan diagnosa penyebabnya juga terdokumentasi dengan baik.
+💡 TIPS KODER
+Gunakan E87.6 sebagai diagnosa sekunder. Jika kadar kalium sangat rendah (< 2.5 mEq/L) dan pasien mengalami kelemahan otot berat (paralisis), kondisi ini bisa dianggap sebagai kondisi akut yang memerlukan pemantauan ketat di HCU/ICU. Pastikan hasil pemeriksaan EKG yang menunjukkan adanya ""U-wave"" atau ""T-flat"" dilampirkan jika diminta oleh verifikator untuk memperkuat bukti keparahan klinis.",,
+SC,"DEFINISI
+Sectio Caesarea (SC) adalah suatu persalinan buatan, di mana janin dilahirkan melalui suatu insisi pada dinding perut dan dinding rahim dengan syarat rahim dalam keadaan utuh.
+🔢 KODE DIAGNOSA (ICD-10)
+- O82.0 – Delivery by elective Caesarean section (SC Terencana).
+- O82.1 – Delivery by emergency Caesarean section (SC Darurat).
+- O34.2 – Maternal care due to uterine scar from previous surgery (Bekas SC/BSC).
+- O63.1 – Prolonged second stage (Partus Tak Maju).
+- O33.1 – CPD (Cephalopelvic Disproportion/Panggul Sempit).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 74.1 – Low cervical Caesarean section (Prosedur SC standar).
+- 75.34 – Other fetal monitoring (Monitoring janin/NST).
+- 99.25 – Injection of anesthetic (Pembiusan Spinal/General).
+- 66.39 – Other bilateral destruction or occlusion of fallopian tubes (Jika dilakukan sterilisasi/MOW sekalian).
+📑 SYARAT KLAIM & KODING
+1. Laporan Operasi: Wajib mencantumkan indikasi medis dilakukan SC (misal: Gagal Induksi, KPD, atau Janin Besar).
+2. Hasil USG/Partograf: Lampirkan bukti pendukung indikasi, terutama untuk kasus Partus Tak Maju atau Malposisi janin.
+3. Outcome of Delivery: Jangan lupa tambahkan kode Z37.x (Hasil persalinan: Tunggal hidup/mati) sebagai diagnosa sekunder wajib.
+💡 CATATAN STRATEGIS
+Pastikan indikasi utama (misal: PEB atau Letak Sungsang) dikoding sebagai diagnosa utama, sedangkan kode SC (O82) mengikuti sebagai metode persalinannya. Hal ini penting agar group INA-CBG sesuai dengan kompleksitas medis pasien.",,
+ASCITES (BUSUNG AIR PERUT),"📖 DEFINISI
+Akumulasi cairan patologis di dalam rongga peritoneum. Tekanan tinggi pada pembuluh darah hati (Hipertensi Portal) dan rendahnya kadar albumin darah menyebabkan cairan ""bocor"" keluar dari pembuluh darah dan mengisi rongga perut.
+🔢 KODE DIAGNOSA (ICD-10)
+• R18 : Ascites (KODE UTAMA - Jika penyebab belum dirinci).
+• K74.6 : Other and unspecified cirrhosis of liver (Sirosis Hati - PENYEBAB UTAMA).
+• I50.9 : Heart failure, unspecified (Gagal Jantung - Penyebab asites sistemik).
+• C22.0 : Liver cell carcinoma (Hepatoma - Asites akibat keganasan).
+• E88.0 : Disorders of plasma-protein metabolism (Hipoalbuminemia - Pemicu asites).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 54.91 : Percutaneous abdominal drainage / Paracentesis (KODE UTAMA - Tindakan sedot cairan perut).
+• 88.76 : Diagnostic ultrasound of abdomen (USG Abdomen - Konfirmasi adanya cairan bebas).
+• 99.29 : Injection or infusion of other therapeutic substance (Pemberian infus Albumin atau Diuretik/Furosemid).
+• 54.11 : Exploratory laparotomy (Jika asites dicurigai karena kebocoran organ dalam).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Tindakan Paracentesis: Jika dilakukan tindakan 54.91, pastikan volume cairan yang dikeluarkan tercatat (misal: 2000 cc). Verifikator sering mengecek apakah asites tersebut masuk kategori ""Permasif"" (Besar) atau tidak.
+2. Pemeriksaan Cairan: Jika cairan hasil sedotan dikirim ke lab untuk cek protein/sel (Analisa Cairan Asites), gunakan kode prosedur 91.29. Ini penting untuk membedakan apakah asites tersebut bersifat transudat (sirosis) atau eksudat (infeksi/keganasan).
+3. Diagnosa Pendukung: Asites hampir selalu disertai dengan Hipoalbumin (E88.0). Selalu cek hasil lab Albumin; jika rendah (<3.0 g/dL), wajib dikoding sebagai diagnosa sekunder untuk menaikkan Severity Level.
+💡 TIPS KODER
+Gunakan R18 sebagai diagnosa sekunder untuk memperkuat profil penyakit utama seperti Sirosis (K74.6). Jika pasien datang hanya untuk tindakan rutin sedot cairan (Paracentesis berkala), gunakan kode Z41.8 atau Z52.x sesuai kebijakan RS, namun umumnya R18 tetap disertakan sebagai alasan tindakan. Jangan lupa menginput kode prosedur USG (88.76) karena merupakan standar emas untuk monitoring volume cairan perut.",,
+�� TUMOR MAMAE (BENJOLAN PAYUDARA),"📖 DEFINISI
+Pertumbuhan sel tidak normal pada jaringan payudara. Bisa bersifat jinak (tidak menyebar) atau ganas (kanker/metastasis).
+🔢 KODE DIAGNOSA (ICD-10)
+• D24 : Benign neoplasm of breast (Tumor Jinak / FAM - Fibroadenoma Mamae).
+• C50.9 : Malignant neoplasm of breast, unspecified (Kanker Payudara / Ca Mamae).
+• N60.x : Benign mammary dysplasia (Kista payudara/Fibrokistik).
+• D05.x : Carcinoma in situ of breast (Kanker tahap awal yang belum menyebar).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 85.21 : Local excision of lesion of breast (Lumpektomi / Angkat benjolan saja).
+• 85.4x : Mastectomy (Pengangkatan seluruh jaringan payudara).
+• 85.11 : Percutaneous (needle) biopsy of breast (Biopsi jarum).
+• 88.73 : Diagnostic ultrasound of breast (USG Mamae).
+• 87.37 : Mammography (Rontgen payudara).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Hasil PA (Patologi Anatomi): Ini adalah ""Kitab Suci"" koding tumor. Jangan mengode C50 (Ganas) jika hasil PA belum keluar atau masih menyatakan jinak, untuk menghindari audit kecurangan (fraud). Begitupun sebaliknya.
+2. KODE C vs D: Selisih tarif antara D24 (Jinak) dan C50 (Ganas) sangat besar. Jika dokter menuliskan ""Suspek Ganas"", koding tetap menggunakan C50 selama ada rencana tindakan yang sesuai untuk keganasan.
+3. Prosedur Biopsi: Jika dilakukan Biopsi saat operasi pengangkatan, jangan lupa input kode 85.11 atau 85.12 agar tindakan tambahan tersebut terbayar.
+💡 TIPS KODER
+Gunakan D24 untuk kasus FAM pada remaja/dewasa muda. Jika pasien datang untuk kemoterapi, gunakan kode Z51.1 sebagai diagnosa utama dan C50.x sebagai diagnosa sekunder. Pastikan letak payudara (Kanan/Kiri) terdokumentasi dengan jelas di resume medis karena berpengaruh pada spesifikasi kode ICD-10.",,
+LAPAROTOMI (BEDAH RONGGA PERUT),"📖 DEFINISI
+Prosedur bedah invasif dengan membuka dinding perut (abdomen) untuk memeriksa organ dalam atau menangani kondisi darurat seperti perdarahan internal, perforasi (kebocoran) usus, atau tumor intra-abdomen.
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 54.11 : Exploratory laparotomy (KODE UTAMA - Mencari penyebab kelainan/eksplorasi).
+• 54.12 : Reopening of recent laparotomy site (Buka kembali luka operasi sebelumnya/Re-Laparotomi).
+• 54.19 : Other laparotomy (Insisi dinding perut lainnya).
+• 54.63 : Secondary closure of abdominal wall (Penjahitan ulang dinding perut/Bedah revisi).
+• 54.91 : Percutaneous abdominal drainage (Drainase cairan perut).
+🔢 KODE DIAGNOSA (ICD-10)
+• K56.6 : Other and unspecified intestinal obstruction (Ileus Obstruktif - Penyebab tersering).
+• K65.0 : Acute peritonitis (Radang selaput perut akibat kebocoran organ).
+• S36.x : Injury of intra-abdominal organs (Trauma/Kecelakaan organ dalam perut).
+• K35.2 : Acute appendicitis with generalized peritonitis (Usus buntu pecah).
+• R10.0 : Acute abdomen (Nyeri perut hebat yang memerlukan bedah segera).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Laporan Operasi: Wajib merinci temuan saat perut dibuka (misal: jumlah darah/pus, kondisi usus, atau lokasi tumor). Tanpa rincian temuan, kode 54.11 berisiko ditolak jika tidak ada tindakan lanjutan yang spesifik.
+2. Prosedur Kombinasi: Laparotomi biasanya merupakan ""pintu masuk"". Jika setelah dibuka dilakukan pengangkatan usus (Kolektomi/45.7x) atau usus buntu (Apendektomi/47.0x), maka kode tindakan spesifik tersebut harus diutamakan sebagai prosedur utama.
+3. Penggunaan Drain: Dokumentasikan jika dipasang selang drainase (silicone/penrose drain) di dalam perut untuk memvalidasi tingkat keparahan infeksi (Peritonitis).
+💡 TIPS KODER
+Gunakan kode 54.11 jika laparotomi dilakukan hanya untuk eksplorasi tanpa tindakan definitif mayor lainnya. Jika ada tindakan lain (seperti jahit usus atau angkat tumor), laparotomi sering dianggap sebagai ""akses"" dan kodenya bisa menjadi prosedur sekunder atau tidak perlu diinput (tergantung kebijakan verifikator lokal) karena sudah termasuk dalam paket prosedur utama yang lebih besar. Pastikan diagnosa utama adalah kondisi medis yang menyebabkan operasi tersebut dilakukan.",,
+�� TRACHEOSTOMY (TRAKEOSTOMI),"📖 DEFINISI
+Tindakan pembedahan untuk membuat lubang pada dinding anterior trakea guna mengatasi obstruksi jalan napas atas atau bantuan ventilasi mekanik jangka panjang.
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 31.1 : Temporary tracheostomy (Trakeostomi sementara).
+• 31.2 : Permanent tracheostomy (Trakeostomi permanen).
+• 31.29 : Other permanent tracheostomy.
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Indikasi: Pastikan terdapat laporan operasi yang jelas. Biasanya dilakukan pada pasien yang gagal weaning (lepas) ventilator setelah lebih dari 7-14 hari.
+2. Kaitan dengan Ventilator: Jika trakeostomi dilakukan untuk pemasangan ventilator, kode prosedur ventilator (96.7x) tetap harus diinput sesuai durasi jamnya.
+3. Biaya Alat: Pastikan pemakaian alat kanul trakeostomi terdokumentasi dalam rincian biaya alat kesehatan agar klaim sinkron dengan tindakan yang dilakukan.
+💡 TIPS KODER
+Bedakan dengan Laryngotomy (31.3). Perhatikan terminologi yang digunakan dokter dalam laporan operasi. Kode 31.1 adalah yang paling umum digunakan untuk kasus di ICU/High Care yang memerlukan akses jalan napas jangka panjang.",,
+�� HEART FAILURE (GAGAL JANTUNG),"📖 DEFINISI
+Kondisi di mana jantung tidak mampu memompa darah yang cukup untuk memenuhi kebutuhan oksigen dan nutrisi tubuh.
+🔢 KODE DIAGNOSA (ICD-10)
+• I50.0 : Congestive heart failure (Gagal jantung kongestif).
+• I50.1 : Left ventricular failure (Gagal jantung kiri/edema paru akut akibat jantung).
+• I50.9 : Heart failure, unspecified.
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Spesifikasi: Upayakan dokter menuliskan apakah kondisi pasien masuk dalam klasifikasi ADHF (Acute Decompensated Heart Failure) atau kronis, karena kodenya lebih spesifik.
+2. Diagnosa Sekunder: Jika gagal jantung disebabkan oleh hipertensi, perhatikan penggunaan kode kombinasi pada kategori I11 (Hypertensive heart disease).
+3. Data Dukung: Wajib melampirkan hasil EKG, Rontgen Thorax (Cardiomegaly/Efusi), dan jika ada, hasil Echocardiography yang menunjukkan penurunan EF (Ejection Fraction).
+💡 TIPS KODER
+Jika pasien mendapatkan terapi diuretik kuat (seperti Furosemide injeksi) secara masif, pastikan diagnosa gagal jantung ini terinput sebagai diagnosa yang memerlukan sumber daya tinggi.",,
+TRIGGER FINGER (STENOSANS TENOSYNOVITIS),"📖 DEFINISI
+Kondisi di mana jari sulit diluruskan setelah ditekuk akibat adanya peradangan atau penebalan pada selubung tendon (pulley A1), sehingga tendon tidak bisa meluncur dengan mulus.
+🔢 KODE DIAGNOSA (ICD-10)
+• M65.3 : Trigger finger (KODE UTAMA).
+• M65.30 : Trigger finger, unspecified site.
+• M65.31 - M65.39 : Kode Spesifik Jari (misal: M65.31 untuk Ibu Jari/Thumb, M65.32 untuk Jari Telunjuk).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 82.11 : Tenotomy of hand (Pembebasan tendon/Release - Paling Umum).
+• 82.01 : Exploration of tendon sheath of hand (Eksplorasi selubung tendon).
+• 04.43 : Release of carpal tunnel (Jika dilakukan bersamaan dengan CTR).
+• 81.92 : Injection of therapeutic substance into joint or ligament (Jika hanya dilakukan Injeksi Steroid).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Lokasi Jari: Wajib mendokumentasikan jari mana yang terkena dan pada tangan mana (Dextra/Sinistra).
+2. Laporan Operasi: Jika dilakukan pembedahan, laporan harus menyebutkan ""Release Pulley A1"". Tanpa kata ""Release"" atau ""Tenotomy"", tindakan berisiko dikode sebagai debridemen biasa yang tarifnya berbeda.
+3. Injeksi vs Operasi: Jika pasien hanya disuntik steroid di poli, gunakan kode 81.92. Jika dilakukan sayatan/pembedahan di kamar operasi, gunakan kode 82.11.
+💡 TIPS KODER
+Trigger finger sering kali muncul bersamaan dengan Carpal Tunnel Syndrome (G56.0). Jika dokter melakukan pembebasan pada keduanya dalam satu sesi operasi, pastikan kedua kode prosedur (82.11 dan 04.43) diinput untuk mengoptimalkan grouping INA-CBG karena melibatkan dua area anatomi yang berbeda.",,
+DM GASTROPATY,"DEFINISI
+Gastropati Diabetik adalah gangguan pada otot lambung yang menyebabkan pengosongan lambung menjadi lambat. Kondisi ini merupakan komplikasi kronis dari Diabetes Melitus.
+🔢 KODE DIAGNOSA (ICD-10)
+- E11.4† – Type 2 diabetes mellitus with neurological complications (Kode Utama/Dagger).
+- G99.0 – Autonomic neuropathy in diseases classified elsewhere (Gastroparesis/Gastropati otonom).
+- K31.8 – Other diseases of stomach and duodenum (Jika ingin lebih spesifik ke gangguan lambungnya).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 45.13 – Esophagogastroduodenoscopy [EGD] (Endoskopi untuk melihat kondisi lambung).
+- 99.21 – Injection of antibiotic/prokinetic (Pemberian obat seperti Metoclopramide/Eritromisin).
+- 90.59 – Blood examination (Monitoring Gula Darah berkala).
+📑 SYARAT KLAIM & KODING
+1. Aturan Dagger & Asterisk: Sesuai kaidah koding, E11.4† harus ditulis sebagai diagnosa utama, diikuti G99.0 sebagai diagnosa sekunder.
+2. Gejala Klinis: Dokumentasikan keluhan seperti mual, muntah setelah makan, atau rasa cepat kenyang yang kronis pada pasien DM.
+3. Pemeriksaan Penunjang: Hasil Endoskopi atau USG abdomen sangat mendukung jika menunjukkan retensi makanan di lambung.
+💡 CATATAN STRATEGIS
+Pastikan dokter menuliskan hubungan antara DM dan gangguan lambungnya secara jelas (misal: ""Gastropati Diabetikum""). Koding komplikasi (E11.4) memiliki bobot klaim yang lebih tinggi dibandingkan DM tanpa komplikasi (E11.9) atau gangguan lambung biasa (K31).",,
+KOINFEKSI TB PARU + HIV,"📖 DEFINISI
+Kondisi di mana pasien terinfeksi bakteri Mycobacterium tuberculosis sekaligus virus HIV. Pasien HIV memiliki risiko 20-30 kali lebih tinggi terkena TB aktif karena sistem imun yang sangat rendah (CD4 rendah).
+🔢 KODE DIAGNOSA (ICD-10)
+• B20.0 : HIV disease resulting in mycobacterial infection (KODE UTAMA - Mencakup TB Paru/Ekstraparu akibat HIV).
+• A15.x / A16.x : Tuberculosis of lung (KODE SEKUNDER - Untuk spesifikasi hasil BTA/TCM).
+• Z21 : Asymptomatic HIV infection status (Hanya jika belum masuk fase AIDS).
+• B24 : Unspecified HIV disease.
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 90.59 : Blood examination (Tes Screening HIV / Viral Load / CD4).
+• 91.39 : TCM GeneXpert (Tes Cepat Molekuler untuk konfirmasi TB).
+• 87.44 : Routine chest x-ray (Rontgen Thorax).
+• 99.21 : Injection or infusion of antibiotics (Pemberian OAT & ARV).
+• 99.29 : Injection of other therapeutic substance (Pemberian Kotrimoksazol Proprofilaksis).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Aturan Koding (B20): Berdasarkan instruksi ICD-10, jika TB muncul pada pasien yang sudah positif HIV/AIDS, maka diagnosa utamanya adalah B20.0, bukan A15/A16. Kode TB (A15/A16) diinput sebagai diagnosa sekunder untuk menjelaskan manifestasi infeksinya.
+2. Kadar CD4: Dokumentasikan kadar CD4 dalam rekam medis. Nilai CD4 di bawah 200 sel/mm3 menunjukkan kondisi imunokompromais berat yang memjustifikasi perawatan intensif dan isolasi.
+3. Pemberian ARV & OAT: Catat dengan jelas jadwal pemberian Obat Anti-Tuberkulosis (OAT) dan Antiretroviral (ARV). Interaksi kedua obat ini memerlukan pengawasan ketat terhadap fungsi hati (cek SGOT/SGPT).
+💡 TIPS KODER
+Gunakan kode B20.0 sebagai diagnosa utama untuk mendapatkan grouping INA-CBG yang lebih tepat (kelompok HIV/AIDS dengan komplikasi infeksi). Hal ini memberikan bobot tarif yang jauh lebih tinggi dibandingkan hanya menginput kode TB Paru biasa. Pastikan hasil lab HIV (Reaktif) dan hasil lab TB (BTA/TCM) terlampir sebagai bukti mutlak validitas klaim di hadapan verifikator.",,
+�� EDEMA PARU AKUT (ACUTE LUNG OEDEMA - ALO),"📖 DEFINISI
+Kondisi darurat di mana terjadi akumulasi cairan di jaringan dan ruang alveoli paru. Hal ini mencegah oksigen masuk ke aliran darah. Penyebab paling umum adalah gangguan jantung (Kardiogenik) atau cedera langsung pada paru (Non-Kardiogenik).
+🔢 KODE DIAGNOSA (ICD-10)
+• J81 : Pulmonary oedema (KODE UTAMA - Jika tidak dirinci penyebabnya).
+• I50.1 : Left ventricular failure (Jika edema paru disebabkan gagal jantung kiri).
+• J96.0 : Acute respiratory failure (Gagal napas akut - Diagnosa sekunder wajib jika pasien sesak berat).
+• I11.0 : Hypertensive heart disease with (congestive) heart failure (Jika disertai tensi tinggi).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 87.44 : Routine chest x-ray (Rontgen Thorax - Bukti utama: gambaran Butterfly Appearance atau Bat's Wing).
+• 93.96 : Other oxygen enrichment (Pemberian Oksigen dosis tinggi/NRM).
+• 93.90 : Non-invasive mechanical ventilation (CPAP/BiPAP - Sering dilakukan di ICU/IGD).
+• 89.65 : Measurement of systemic arterial blood gases (Analisa Gas Darah/AGD).
+• 99.29 : Injection or infusion of diuretics (Pemberian Furosemide dosis tinggi).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Bukti Rontgen: Hasil Rontgen Thorax (87.44) adalah syarat mutlak validasi klaim. Verifikator akan mencari deskripsi ""Edema Paru"" atau ""Infiltrat Perihiler"" pada hasil bacaan radiologi.
+2. Kardiogenik vs Non-Kardiogenik: Jika disebabkan oleh jantung, kodenya diarahkan ke I50.1. Jika kodenya tepat, tarif INA-CBG akan jauh lebih optimal karena mencerminkan kompleksitas kasus jantung.
+3. Gagal Napas (J96.0): Edema paru akut hampir selalu menyebabkan Gagal Napas. Pastikan diagnosa J96.0 diinput sebagai diagnosa sekunder untuk menaikkan Severity Level menjadi Level 3 (Kasus Berat).
+💡 TIPS KODER
+Gunakan kode J81 sebagai diagnosa utama jika fokus perawatan adalah edema parunya. Selalu lampirkan hasil EKG (89.52) dan pemeriksaan laboratorium BNP/NT-proBNP jika ada, untuk memperkuat bukti bahwa edema tersebut berasal dari gangguan jantung. Pastikan penggunaan alat bantu napas (CPAP/BiPAP) terdokumentasi dengan kode 93.90 karena prosedur ini memiliki bobot biaya yang tinggi.",,
+LAPARASKOPIK,"DEFINISI
+Teknik bedah invasif minimal yang menggunakan alat bernama laparoskop (tabung tipis dengan kamera dan lampu) yang dimasukkan melalui sayatan kecil di dinding perut.
+🔢 KODE DIAGNOSA (ICD-10)
+Bergantung pada indikasi medis, misal:
+- K80.0 – Calculus of gallbladder with acute cholecystitis (Batu empedu dengan radang akut).
+- K35.8 – Acute appendicitis (Appendisitis akut).
+- N80.x – Endometriosis.
+- R10.4 – Other and unspecified abdominal pain (Jika dilakukan Laparoskopi Diagnostik).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 54.21 – Laparoscopy (Laparoskopi Diagnostik/Hanya eksplorasi).
+- 47.01 – Laparoscopic appendectomy (Pengangkatan usus buntu via laparoskopi).
+- 51.23 – Laparoscopic cholecystectomy (Pengangkatan kandung empedu via laparoskopi).
+- 68.41 – Laparoscopic total abdominal hysterectomy (Angkat rahim via laparoskopi).
+- 54.51 – Laparoscopic lysis of peritoneal adhesions (Pelepasan perlekatan usus).
+📑 SYARAT KLAIM & KODING
+1. Laporan Operasi: Harus menyebutkan dengan jelas penggunaan perangkat laparoskopi, jumlah port (sayatan kecil), dan visualisasi kamera selama tindakan.
+2. Kesesuaian Kode: Pastikan kode prosedur ICD-9 yang dipilih memiliki embel-embel ""Laparoscopic"". Jangan menggunakan kode bedah terbuka (Open) jika tindakan dilakukan secara laparoskopi.
+3. Konversi: Jika saat operasi dilakukan konversi dari Laparoskopi ke Bedah Terbuka (Open) karena penyulit, maka yang dikoding adalah prosedur Bedah Terbuka-nya.
+💡 CATATAN STRATEGIS
+Prosedur Laparoskopi (seperti 51.23 atau 47.01) memiliki nilai klaim yang lebih tinggi karena penggunaan alat canggih (consumables khusus). Pastikan bukti billing alat atau laporan operasi yang mendetail terlampir agar tidak terkena audit kesesuaian tarif.",,
+�� THROMBOCYTOPENIA (TROMBOSIT RENDAH),"📖 DEFINISI
+Kondisi di mana jumlah trombosit di bawah batas normal. Trombosit berfungsi untuk pembekuan darah; jika terlalu rendah, pasien berisiko mengalami pendarahan spontan seperti mimisan, gusi berdarah, atau bintik merah pada kulit (petekie).
+🔢 KODE DIAGNOSA (ICD-10)
+• D69.6 : Thrombocytopenia, unspecified (Paling sering digunakan jika penyebab tidak dirinci).
+• D69.5 : Secondary thrombocytopenia (Jika disebabkan oleh obat atau penyakit lain).
+• D69.4 : Other secondary thrombocytopenia (Termasuk Evans Syndrome).
+• D69.3 : Idiopathic thrombocytopenic purpura (ITP - Jika penyebabnya autoimun murni).
+• A91 : Dengue haemorrhagic fever (Jika trombositopenia adalah bagian dari DBD).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.05 : Transfusion of platelets (Transfusi TC - Prosedur Utama).
+• 41.31 : Biopsy of bone marrow (Jika dilakukan pengambilan sampel sumsum tulang).
+• 90.59 : Blood examination (Cek lab darah rutin/trombosit berkala).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Diagnosa Sekunder Utama: Trombositopenia adalah ""booster"" Severity Level yang sangat efektif. Jika pasien masuk dengan diagnosa utama infeksi atau penyakit jantung, pastikan D69.6 diinput sebagai diagnosa sekunder jika nilai trombosit < 150.000.
+2. ITP vs Trombositopenia Biasa: Hati-hati memilih D69.3 (ITP). Verifikator akan meminta bukti pemeriksaan antibodi atau hapusan darah tepi yang menunjukkan mekanisme imun. Jika tidak ada, gunakan D69.6 agar lebih aman.
+3. Pendarahan Aktif: Jika disertai pendarahan aktif (misal mimisan atau BAB darah), jangan lupa tambahkan kode pendarahannya (seperti R04.0 untuk Epistaksis) untuk menggambarkan kompleksitas kasus.
+💡 TIPS KODER
+Pastikan hasil laboratorium awal (saat masuk RS) yang menunjukkan angka trombosit rendah terlampir dalam berkas klaim. Jika dilakukan transfusi TC (99.05), pastikan jumlah kolf/kantong darah yang diberikan tercatat jelas di laporan tindakan atau catatan pemberian darah.",,
+�� GAGAL NAPAS (RESPIRATORY FAILURE),"📖 DEFINISI
+Ketidakmampuan paru-paru untuk menyalurkan oksigen ke darah (Hipoksemia) atau membuang karbon dioksida dari darah (Hiperkapnia).
+🧪 PEMERIKSAAN PENUNJANG (EVIDENCE)
+1. Analisa Gas Darah (AGD/BGA):
+• Tipe 1 (Hipoksemik): PaO2 < 60 mmHg.
+• Tipe 2 (Hiperkapnik): PaCO2 > 45 mmHg.
+• pH Darah: Menunjukkan asidosis respiratorik jika kondisi akut.
+2. Pulse Oxymetry: Saturasi Oksigen (SpO2) < 90% pada udara bebas.
+3. Rontgen Thorax (X-Ray): Untuk mencari penyebab (Pneumonia, Edema Paru, Pneumothorax, atau Efusi Pleura).
+4. Elektrokardiogram (EKG): Menilai apakah gagal napas berdampak pada irama jantung (Aritmia) atau disebabkan oleh gagal jantung.
+🔢 KODE DIAGNOSA (ICD-10)
+• J96.0 : Acute respiratory failure (Gagal napas akut).
+• J96.1 : Chronic respiratory failure (Gagal napas kronis).
+• J96.9 : Respiratory failure, unspecified.
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 89.65 : Measurement of systemic arterial blood gases (Tindakan pengambilan AGD).
+• 93.9x : Non-mechanical resuscitation (Pemberian Oksigen via Nasal Kanul, NRM, atau CPAP).
+• 96.7x : Continuous mechanical ventilation (Penggunaan Ventilator/Alat Bantu Napas).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Sinkronisasi Diagnosa: Gagal napas (J96) hampir selalu menjadi Diagnosa Sekunder. Diagnosa utamanya adalah penyebabnya (misal: Pneumonia/J18.9 atau PPOK/J44.1).
+2. Clinical Pathway: Jika mengkode J96.0 (Akut), pastikan rekam medis mencatat penggunaan bantuan napas intensif (Ventilator atau High Flow Nasal Cannula/HFNC).
+3. Hasil Lab: Fotokopi hasil AGD/BGA yang menunjukkan angka kritis wajib dilampirkan sebagai bukti autentik bagi verifikator BPJS.
+💡 TIPS KODER
+Hati-hati dalam membedakan ""Gagal Napas"" (J96) dengan ""Distres Pernapasan/Sesak"" (R06.0). Gagal napas memiliki bobot klaim jauh lebih tinggi, namun tanpa bukti AGD atau dokumentasi penggunaan alat bantu napas yang kuat, kode J96 berisiko tinggi terkena pending atau turun menjadi kode gejala (R06).",,
+�� HEMORRHOIDS (WASIR / AMBEIEN),"📖 DEFINISI
+Pelebaran pembuluh darah vena di area rektum dan anus. Terbagi menjadi Internal (di dalam) dan Eksternal (di luar). Gejala utama berupa benjolan di anus, nyeri, dan buang air besar berdarah segar.
+🔢 KODE DIAGNOSA (ICD-10)
+• K64.0 : First degree hemorrhoids (Grade 1 - Belum menonjol keluar).
+• K64.1 : Second degree hemorrhoids (Grade 2 - Keluar saat BAB, masuk sendiri).
+• K64.2 : Third degree hemorrhoids (Grade 3 - Keluar saat BAB, harus didorong tangan).
+• K64.3 : Fourth degree hemorrhoids (Grade 4 - Menetap di luar, tidak bisa masuk).
+• K64.5 : Perianal venous thrombosis (Wasir yang terjepit dan membiru/nyeri hebat).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 49.46 : Hemorrhoidectomy (Operasi pengangkatan wasir - TINDAKAN UTAMA).
+• 49.45 : Ligation of hemorrhoids (Pengikatan wasir/Rubber band ligation).
+• 49.44 : Injection of hemorrhoids (Skleroterapi/Suntik wasir).
+• 45.24 : Sigmoidoscopy (Pemeriksaan teropong untuk memastikan sumber perdarahan).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Grade Penting: Pastikan dokter menuliskan derajat wasir (Grade 1-4). Selisih tarif antara wasir ringan dan wasir yang memerlukan operasi (Grade 3-4) sangat signifikan.
+2. Anemia (D62): Wasir sering menyebabkan perdarahan kronis. Jika Hb pasien rendah, jangan lupa tambahkan kode Anemia paska perdarahan (D62) sebagai diagnosa sekunder peningkat tarif.
+3. Kombinasi Prosedur: Jika dilakukan biopsi saat operasi, masukkan kode 49.23 (Biopsy of anus/perianal tissue).
+💡 TIPS KODER
+Gunakan K64.3 untuk kasus wasir yang sudah menetap di luar (prolaps) karena ini yang paling sering membutuhkan tindakan pembedahan Hemorrhoidectomy (49.46). Pastikan laporan operasi mendeskripsikan teknik yang digunakan (misal: teknik Milligan-Morgan atau Stapled) untuk memperkuat validitas koding jika terjadi audit.",,
+�� CATHLAB (CARDIAC CATHETERIZATION & INTERVENTION),"📖 DEFINISI
+Prosedur medis invasif dengan memasukkan kateter (selang tipis) melalui pembuluh darah di lengan atau paha menuju jantung. Digunakan untuk mendiagnosis penyumbatan (DCA) atau melakukan tindakan intervensi seperti pemasangan balon dan ring (PCI).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 37.22 : Left heart cardiac catheterization (DCA - Prosedur diagnostik cek sumbatan).
+• 00.66 : PTCA atau Coronary Angioplasty (Tindakan balon/intervensi non-bedah).
+• 36.06 : Insertion of non-drug-eluting coronary artery stent (Pasang ring biasa/BMS).
+• 36.07 : Insertion of drug-eluting coronary artery stent (Pasang ring obat/DES - PALING SERING).
+• 88.55 : Coronary angiogram using contrast (Sering diinput bersamaan dengan DCA).
+🔢 KODE DIAGNOSA (ICD-10)
+• I25.1 : Atherosclerotic heart disease (Penyakit jantung koroner/PJK).
+• I21.x : Acute myocardial infarction (Serangan jantung akut/STEMI/NSTEMI).
+• I20.0 : Unstable angina (Angina pektoris tidak stabil).
+• Z95.1 : Presence of aortocoronary urethral graft (Status paska bypass/CABG).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Diagnostik vs Intervensi: Pastikan membedakan kode DCA saja (37.22) dengan PCI (00.66 + 36.07). Jika hanya DCA, tarifnya jauh lebih rendah. Jika berlanjut ke pemasangan ring, kode DCA biasanya dianggap inklusif atau menjadi prosedur sekunder tergantung kebijakan verifikator lokal.
+2. Jumlah Ring: Dokumentasikan jumlah ring yang dipasang. Meskipun kode 36.07 mencakup pemasangan ring obat, laporan operasi yang merinci jumlah stent dan lokasi arteri (LAD, RCA, LCx) sangat penting untuk mendukung tingkat keparahan kasus.
+3. Akses Vena/Arteri: Dokumentasikan apakah akses melalui Radial (tangan) atau Femoral (paha). Hal ini memengaruhi perawatan pasca tindakan (misal: penggunaan bantal pasir atau TR-Band).
+💡 TIPS KODER
+Gunakan kode utama sesuai diagnosa medis (misal: I21.1 untuk STEMI). Untuk tindakan, kode 00.66 dan 36.07 adalah pasangan wajib jika pasien dilakukan pemasangan ring obat (DES). Jangan lupa menginput kode 88.55 jika dilakukan angiografi kontras. Selalu lampirkan print-out laporan Cathlab yang berisi gambar/grafik penyumbatan sebagai bukti autentik untuk verifikator BPJS agar klaim tidak di-dispute.",,
+�� ANAEMIA (ANEMIA / KURANG DARAH),"📖 DEFINISI
+Kondisi di mana kadar Hemoglobin (Hb) dalam darah lebih rendah dari nilai normal. Akibatnya, kemampuan darah untuk mengangkut oksigen ke seluruh jaringan tubuh berkurang, menyebabkan gejala lemas, pucat, dan sesak napas.
+🔢 KODE DIAGNOSA (ICD-10) - PALING SERING
+• D64.9 : Anaemia, unspecified (Anemia tanpa keterangan jenis - KODE STANDAR).
+• D50.9 : Iron deficiency anaemia (Anemia defisiensi besi).
+• D63.8 : Anaemia in other chronic diseases classified elsewhere (Anemia akibat penyakit kronis lain, misal pada pasien gagal ginjal).
+• D62 : Acute posthaemorrhagic anaemia (Anemia akibat perdarahan akut/kecelakaan/melahirkan).
+• D61.9 : Aplastic anaemia, unspecified (Anemia aplastik).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 99.04 : Transfusion of packed cells (Transfusi PRC - Paling sering).
+• 99.03 : Transfusion of whole blood (Transfusi darah lengkap).
+• 90.59 : Blood examination (Cek Darah Lengkap/Hb rutin).
+• 90.51 : Microscopic examination of blood (Morfologi Darah Tepi).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Penyebab adalah Kunci: Jika anemia disebabkan oleh gagal ginjal kronis (CKD), gunakan kode D63.8. Jika disebabkan oleh kanker, gunakan D63.0. Kode asteris () ini sangat penting untuk menunjukkan keterkaitan penyakit.
+2. Kriteria Transfusi: Verifikator BPJS biasanya mencari catatan nilai Hb sebelum dilakukan transfusi. Pastikan nilai Hb terdokumentasi dengan jelas (misal: Hb < 8 g/dL) untuk memvalidasi prosedur transfusi (99.04).
+3. Anemia Akut (D62): Gunakan kode D62 jika anemia terjadi secara mendadak akibat kehilangan darah (misal paska operasi atau perdarahan lambung). Kode ini memiliki bobot yang berbeda dengan anemia kronis biasa.
+💡 TIPS KODER
+Gunakan D64.9 sebagai diagnosa sekunder untuk meningkatkan kompleksitas kasus utama. Jika pasien masuk RS khusus hanya untuk transfusi tanpa penyakit lain yang dominan, maka Anemia menjadi diagnosa utama. Namun, jika ada penyakit berat lain (seperti CKD atau Kanker), Anemia menjadi diagnosa sekunder yang sangat efektif menaikkan Severity Level klaim Bapak.",,
+👶 DISTRESS PERNAPASAN PADA NEONATUS,"📖 DEFINISI
+Kumpulan gejala gangguan napas pada bayi baru lahir yang ditandai dengan rintihan (grunting), napas cuping hidung, retraksi dada, dan sianosis.
+🔢 KODE DIAGNOSA (ICD-10)
+• P22.0 : RDS (Respiratory Distress Syndrome) / Penyakit Membran Hialin.
+• P22.1 : TTN (Transient Tachypnoea of Newborn).
+• P22.8 : Gangguan napas lainnya pada neonatus.
+• P24.0 : Sindrom Aspirasi Mekonium (jika air ketuban hijau/keruh).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Pemeriksaan Penunjang: Pastikan ada lampiran Rontgen Thorax (untuk melihat gambaran retikulogranular pada RDS) dan hasil Analisa Gas Darah (AGD) di rekam medis.
+2. Prosedur (ICD-9 CM): Jika bayi mendapatkan alat bantu napas, jangan lupa input kode prosedur:
+- 93.90 : CPAP (Continuous Positive Airway Pressure).
+- 96.7x : Ventilasi Mekanik (sesuai durasi jam).
+3. Bobot Klaim: Diagnosa P22.0 (RDS) biasanya memiliki bobot biaya yang lebih tinggi dibandingkan P22.1 (TTN) karena tingkat kompleksitas perawatannya.
+💡 TIPS KODER
+Bedakan klasifikasi berdasarkan usia kehamilan. RDS (P22.0) biasanya terjadi pada bayi prematur, sedangkan TTN (P22.1) sering terjadi pada bayi cukup bulan (terutama persalinan SC).",,
+💥 PERITONITIS DENGAN PERFORASI CAECUM,"📖 DEFINISI
+Kebocoran pada dinding caecum (pangkal usus besar) yang menyebabkan tumpahnya isi usus (feses) ke rongga peritoneum, memicu peradangan hebat dan infeksi sistemik (Sepsis).
+🔢 KODE DIAGNOSA (ICD-10)
+• K35.2 : Acute appendicitis with generalized peritonitis (Gunakan jika perforasi berasal dari apendisitis yang pecah di pangkal sekum).
+• K63.1 : Perforation of intestine (non-traumatic) (KODE UTAMA jika perforasi bukan karena usus buntu atau trauma).
+• K65.0 : Generalized peritonitis (KODE SEKUNDER untuk menunjukkan penyebaran infeksi di seluruh rongga perut).
+• A41.9 : Sepsis, unspecified (Wajib ditambahkan jika pasien menunjukkan tanda infeksi sistemik/SIRS).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 54.11 : Exploratory laparotomy (Pembedahan pembukaan dinding perut).
+• 45.72 : Cecectomy (Pemotongan bagian sekum yang bocor).
+• 46.75 : Suture of laceration of large intestine (Penjahitan lubang usus besar).
+• 54.19 : Peritoneal lavage (Pencucian rongga perut dengan cairan NaCl jumlah besar).
+• 46.1x : Colostomy (Pembuatan lubang pembuangan sementara jika usus tidak bisa langsung disambung).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Laporan Operasi: Wajib mencantumkan kondisi intraoperatif (misal: ""Ditemukan pus/nanah dan feses di seluruh kuadran abdomen""). Ini bukti otentik adanya peritonitis generalisata.
+2. Kultur Cairan Peritoneum: Sangat disarankan melampirkan hasil kultur cairan perut untuk memvalidasi penggunaan antibiotik dosis tinggi.
+3. Penyebab Utama: Jika perforasi disebabkan oleh tumor, maka kode Kanker (C18.0) menjadi Diagnosa Utama, sedangkan Perforasi dan Peritonitis menjadi Diagnosa Sekunder.
+💡 TIPS KODER
+Kombinasi K63.1 (Perforasi) dan K65.0 (Peritonitis) hampir selalu menghasilkan Severity Level 3 jika disertai prosedur bedah mayor (Laparotomi). Pastikan diagnosa Syok Septik (R57.2) juga diinput jika pasien mengalami penurunan tekanan darah yang memerlukan obat vasopressor (seperti Norepinefrin) selama perawatan.",,
+✂️🤰 SC DENGAN ADHESIOLYSIS (PELEPASAN PERLENGKETAN),"📖 DEFINISI
+Tindakan operasi Sectio Caesarea yang disertai dengan prosedur tambahan berupa pelepasan perlengketan (Adhesiolysis) antar organ dalam perut. Biasanya terjadi pada pasien yang memiliki riwayat operasi perut atau SC sebelumnya.
+🔢 KODE DIAGNOSA (ICD-10)
+• O34.2 : Maternal care due to uterine scar from previous surgery (Bekas SC - Diagnosa Utama).
+• K66.0 : Peritoneal adhesions (Perlengketan organ dalam perut - Diagnosa Sekunder).
+• O65.5 : Obstruction of labour due to abnormality of maternal pelvic organs (Jika perlengketan menyebabkan persalinan macet).
+🔢 KODE PROSEDUR (ICD-9 CM)
+• 74.1 : Classical section caesarean (Atau kode SC sesuai tekniknya).
+• 54.59 : Other lysis of peritoneal adhesions (KODE TAMBAHAN untuk Adhesiolysis).
+• 54.51 : Laparoscopic lysis of peritoneal adhesions (Jika menggunakan laparoskopi).
+⚠️ CATATAN STRATEGIS (CASEMIX)
+1. Dua Kode Prosedur: Jangan hanya menginput kode SC (74.1). Wajib menambahkan kode 54.59 sebagai prosedur sekunder. Penambahan kode ini mencerminkan tingkat kesulitan operasi yang lebih tinggi dan penggunaan sumber daya yang lebih banyak.
+2. Laporan Operasi: Verifikator akan mencari detail pada laporan operasi. Pastikan dokter menuliskan bagian mana yang lengket (misal: omentum lengket ke uterus, atau vesika urinaria lengket ke uterus) dan tindakan pelepasan yang dilakukan.
+3. Optimasi Tarif: SC dengan Adhesiolysis sering kali masuk ke dalam grup tarif yang lebih tinggi dibandingkan SC tanpa penyulit, karena dianggap sebagai kasus pembedahan yang lebih kompleks.
+💡 TIPS KODER
+Gunakan O34.2 sebagai diagnosa utama jika alasan SC adalah bekas operasi lama. Pastikan kode K66.0 diinput sebagai diagnosa sekunder agar prosedur 54.59 memiliki dasar medis yang kuat (medical necessity). Jika terjadi robekan pada organ yang lengket saat dilepaskan (misal robek kandung kemih), pastikan kode cedera intraoperatif juga dimasukkan.",,
+VERTIGO,"📖 DEFINISI
+Vertigo adalah sensasi diri sendiri atau sekeliling terasa berputar yang terjadi secara mendadak. Sering disertai mual, muntah, dan gangguan keseimbangan.
+🔢 KODE DIAGNOSA (ICD-10)
+- H81.1 – Benign paroxysmal vertigo (BPPV - Paling umum).
+- H81.0 – Meniere's disease (Vertigo + Tinitus/Telinga berdenging).
+- A17.8 – Central origin vertigo (Vertigo Sentral).
+- R42 – Dizziness and giddiness (Gunakan hanya jika diagnosis belum spesifik).
+🛠️ KODE PROSEDUR (ICD-9 CM)
+- 95.24 – Electronystagmogram (ENG / Tes keseimbangan).
+- 94.44 – Manuvra Epley / Dix-Hallpike (Prosedur reposisi kanalit).
+- 87.03 – CT Scan Head (Jika dicurigai penyebab sentral/otak).
+- 99.25 – Injection of anti-emetic/analgetic (Terapi simptomatik).
+📑 SYARAT KLAIM & KODING
+1. Pemeriksaan Fisik: Catat hasil manuver provokasi (seperti Dix-Hallpike) di resume medis untuk memperkuat diagnosa BPPV.
+2. Kesesuaian Kode: Hindari menggunakan kode R42 jika dokter sudah menegakkan jenis vertigo yang spesifik (seperti H81.1) agar koding lebih akurat secara klinis.
+3. Penyebab Sentral: Jika vertigo disebabkan oleh Stroke atau TIA, pastikan diagnosa utamanya adalah Stroke/TIA, dan vertigo menjadi diagnosa sekunder.
+💡 CATATAN STRATEGIS
+Vertigo sering kali merupakan gejala dari penyakit lain. Pastikan dokumentasi medis menjelaskan apakah ini vertigo perifer (telinga dalam) atau sentral (otak), karena hal ini menentukan penggunaan sumber daya rumah sakit dan ketepatan tarif INA-CBG.",,
